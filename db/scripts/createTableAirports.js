@@ -1,7 +1,7 @@
 const pool = require('../index');
 
 async function createTable() {
-  const createTableQuery = `CREATE TABLE airports(
+  const createTableQuery = `CREATE TABLE IF NOT EXISTS airports(
                                 id SERIAL PRIMARY KEY,
                                 airport_code TEXT,
                                 airport_name TEXT,
