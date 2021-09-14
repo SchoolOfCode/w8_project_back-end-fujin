@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node -r dotenv/config ./bin/www",
+    "start": "node ./bin/www",
     "dev": "nodemon -r dotenv/config ./bin/www",
     "dbcreateAirlines": "node -r dotenv/config ./db/scripts/createTableAirlines.js",
     "dbcreateAirports": "node -r dotenv/config ./db/scripts/createTableAirports.js",
