@@ -1,8 +1,9 @@
-const pool = require("../index");
+const pool = require('../index');
 
 async function createTable() {
   const createTableQuery = `CREATE TABLE airports(
-                                airport_code TEXT PRIMARY KEY,
+                                id SERIAL PRIMARY KEY,
+                                airport_code TEXT,
                                 airport_name TEXT,
                                 city_code TEXT,
                                 city_name TEXT,
@@ -11,7 +12,7 @@ async function createTable() {
                                 active BOOLEAN);`;
 
   const res = await pool.query(createTableQuery);
-  console.log("new table created!");
+  console.log('new table created!');
   console.table(createTableQuery);
 }
 
