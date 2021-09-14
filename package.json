@@ -9,8 +9,9 @@
     "dbpopulateAirlines": "node -r dotenv/config ./db/scripts/populateTableAirlines.js",
     "dbpopulateAirports": "node -r dotenv/config ./db/scripts/populateTableAirports.js",
     "dbdeleteAirlines": "node -r dotenv/config ./db/scripts/dropTableAirlines.js",
-    "dbresetAirlines": "npm run dbdeleteAirlines && npm run dbcreateAirlines && npmrun dbpopulateAirlines",
-    "dbresetAirports": "npm run dbdeleteAirports && npm run dbcreateAirports && npmrun dbpopulateAirports"
+    "dbdeleteAirports": "node -r dotenv/config ./db/scripts/dropTableAirports.js",
+    "dbresetAirlines": "npm run dbdeleteAirlines && npm run dbcreateAirlines && npm run dbpopulateAirlines",
+    "dbresetAirports": "npm run dbdeleteAirports && npm run dbcreateAirports && npm run dbpopulateAirports"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
