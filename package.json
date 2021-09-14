@@ -7,6 +7,7 @@
     "dbcreateAirlines": "node -r dotenv/config ./db/scripts/createTableAirlines.js",
     "dbcreateAirports": "node -r dotenv/config ./db/scripts/createTableAirports.js",
     "dbpopulateAirlines": "node -r dotenv/config ./db/scripts/populateTableAirlines.js",
+    "dbpopulateAirports": "node -r dotenv/config ./db/scripts/populateTableAirports.js",
     "dbdeleteAirlines": "node -r dotenv/config ./db/scripts/dropTableAirlines.js"
   },
   "dependencies": {
