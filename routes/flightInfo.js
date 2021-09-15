@@ -4,7 +4,10 @@ const axios = require("axios");
 const dataFilter = require("../helpers/dataFilter");
 const fetchFromOAG = require("../helpers/fetchFromOAG");
 
-router.get("/", async (req, res) => {
+var cors = require('cors')
+router.options('*', cors())
+
+router.get("/", cors(), async (req, res) => {
   let rawData;
   try {
     rawData = await fetchFromOAG(req.query);
