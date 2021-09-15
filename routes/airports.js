@@ -1,14 +1,19 @@
 const { Router } = require('express');
 const router = new Router();
 
+var cors = require('cors')
+router.options('*', cors())
+
 const {
   getAllAirports,
   getAirportsByCity,
   getAirportById,
 } = require('../models/airports');
 
+
+
 // Get by city name
-router.get('/', async (req, res, next) => {
+router.get('/', cors(), async (req, res, next) => {
   const { query } = req;
   if (!query.city) {
     return next();
@@ -26,7 +31,7 @@ router.get('/', async (req, res, next) => {
   }
 });
 
-router.get('/', async (req, res) => {
+router.get('/', cors(), async (req, res) => {
   try {
     const data = await getAllAirports();
     res.json({
@@ -39,7 +44,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-router.get('/:id', async (req, res) => {
+router.get('/:id', cors(), async (req, res) => {
   const { id } = req.params;
   try {
     const data = await getAirportById(id);
