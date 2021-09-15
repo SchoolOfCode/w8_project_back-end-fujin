@@ -15,9 +15,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', (req, res) => res.json({ message: 'Hello world!' }));
 app.use('/flights', flightsRouter);
 app.use('/airports', airportsRouter);
 app.use('/airlines', airlinesRouter);
+app.use('/', (req, res) => res.json({ message: 'Hello world!' }));
 
 module.exports = app;
