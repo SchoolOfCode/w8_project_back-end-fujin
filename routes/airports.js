@@ -10,8 +10,22 @@ const {
   getAirportById,
   deleteAirport,
   postAirport,
-  updateAirport
+  updateAirport,
 } = require("../models/airports");
+
+router.get("/:id", cors(), async (req, res) => {
+  const { id } = req.params;
+  try {
+    const data = await getAirportById(id);
+    res.json({
+      success: true,
+      message: `Airport with id of ${id}`,
+      payload: data,
+    });
+  } catch (error) {
+    res.json({ success: false, message: `${error.name}: ${error.message}` });
+  }
+});
 
 router.get("/", cors(), async (req, res, next) => {
   const { query } = req;
