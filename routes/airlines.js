@@ -1,6 +1,9 @@
 const { Router } = require("express");
 const router = new Router();
 
+var cors = require("cors");
+router.options("*", cors());
+
 const {
   getAllAirlines,
   getAirlineById,
@@ -9,7 +12,7 @@ const {
   updateAirline,
 } = require("../models/airlines");
 
-router.get("/", async (req, res) => {
+router.get("/", cors(), async (req, res) => {
   try {
     const data = await getAllAirlines();
     res.json({
@@ -25,7 +28,7 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/:id", cors(), async (req, res) => {
   const { id } = req.params;
   try {
     const data = await getAirlineById(id);
