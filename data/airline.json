@@ -1,0 +1,9347 @@
+[
+  {
+    "IATA_CD": "X7",
+    "CARR_NAME": "Challenge Airlines",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9B",
+    "CARR_NAME": "Accesrail Inc.",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GZ",
+    "CARR_NAME": "Air Rarotonga",
+    "COUNTRY": "CK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8T",
+    "CARR_NAME": "Air Tindi Ltd",
+    "COUNTRY": "CA",
+    "STATE": "NT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J5",
+    "CARR_NAME": "Alaska Seaplanes",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2V",
+    "CARR_NAME": "Amtrak",
+    "COUNTRY": "US",
+    "STATE": "DC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EV",
+    "CARR_NAME": "ExpressJet Airlines, Inc.",
+    "COUNTRY": "US",
+    "STATE": "GA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2A",
+    "CARR_NAME": "Deutsche Bahn AG",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9F",
+    "CARR_NAME": "Eurostar International",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HR",
+    "CARR_NAME": "Hahn Air",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2O",
+    "CARR_NAME": "Island Air Service",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QJ",
+    "CARR_NAME": "Jet Airways Inc.",
+    "COUNTRY": "US",
+    "STATE": "MA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4X",
+    "CARR_NAME": "Mercury World Cargo",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HI",
+    "CARR_NAME": "Papillon Airways",
+    "COUNTRY": "US",
+    "STATE": "AZ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P1",
+    "CARR_NAME": "PublicCharters.com",
+    "COUNTRY": "US",
+    "STATE": "PA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2E",
+    "CARR_NAME": "Smokey Bay Air",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CR",
+    "CARR_NAME": "Prevalidate Test carrier Do not use",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "X4",
+    "CARR_NAME": "Air Excursions, LLC",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Y6",
+    "CARR_NAME": "AB Aviation",
+    "COUNTRY": "KM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q9",
+    "CARR_NAME": "Green Africa Airways Limited",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GD",
+    "CARR_NAME": "Aviair",
+    "COUNTRY": "AU",
+    "STATE": "WA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SH",
+    "CARR_NAME": "Sharp Airlines",
+    "COUNTRY": "AU",
+    "STATE": "VI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D3",
+    "CARR_NAME": "Daallo Airlines",
+    "COUNTRY": "DJ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XB",
+    "CARR_NAME": "Forward Air",
+    "COUNTRY": "US",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "1X",
+    "CARR_NAME": "Branson AirExpress",
+    "COUNTRY": "US",
+    "STATE": "MT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4T",
+    "CARR_NAME": "Rise Air",
+    "COUNTRY": "CA",
+    "STATE": "SK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HS",
+    "CARR_NAME": "Heli Securite Helicopter Airline",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L3",
+    "CARR_NAME": "DHL de Guatemala, S.A.",
+    "COUNTRY": "GT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5I",
+    "CARR_NAME": "Alsa Grupo Slu",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DG",
+    "CARR_NAME": "Cebgo",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "H1",
+    "CARR_NAME": "Hahn Air Systems",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9T",
+    "CARR_NAME": "ACT Airlines Inc",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3X",
+    "CARR_NAME": "Premier Trans Aire",
+    "COUNTRY": "US",
+    "STATE": "HI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BU",
+    "CARR_NAME": "Compagnie Africaine d'Aviation",
+    "COUNTRY": "CD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CB",
+    "CARR_NAME": "Trans Caribbean Air",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NP",
+    "CARR_NAME": "Nile Air",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GC",
+    "CARR_NAME": "Global Feeder Services",
+    "COUNTRY": "US",
+    "STATE": "NJ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6V",
+    "CARR_NAME": "AVANZA",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QM",
+    "CARR_NAME": "Monacair",
+    "COUNTRY": "MC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BS",
+    "CARR_NAME": "US-Bangla Airlines",
+    "COUNTRY": "BD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V6",
+    "CARR_NAME": "VI Airlink",
+    "COUNTRY": "VG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UK",
+    "CARR_NAME": "Vistara",
+    "COUNTRY": "IN",
+    "STATE": "HR",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "4R",
+    "CARR_NAME": "Renfe Viajeros",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FC",
+    "CARR_NAME": "Link Airways",
+    "COUNTRY": "AU",
+    "STATE": "AC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W1",
+    "CARR_NAME": "World Ticket Ltd",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FP",
+    "CARR_NAME": "Flypelican",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S2",
+    "CARR_NAME": "Serve Air S.A.R.L.",
+    "COUNTRY": "CG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3G",
+    "CARR_NAME": "World Cargo Airlines",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E6",
+    "CARR_NAME": "Bringer Air Cargo Taxi Aereo",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3A",
+    "CARR_NAME": "Chu Kong Passenger Transport Co Ltd.",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MC",
+    "CARR_NAME": "Air Mobility Command",
+    "COUNTRY": "US",
+    "STATE": "IL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZR",
+    "CARR_NAME": "Aviacon Zitotrans Air Company",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YD",
+    "CARR_NAME": "Synergy Aviation",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RH",
+    "CARR_NAME": "Hong Kong Air Cargo Carrier Limited",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AO",
+    "CARR_NAME": "Air Juan",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "K2",
+    "CARR_NAME": "Yute Commuter Service",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A4",
+    "CARR_NAME": "AZIMUTH Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FO",
+    "CARR_NAME": "Flybondi",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4P",
+    "CARR_NAME": "Regional Sky",
+    "COUNTRY": "US",
+    "STATE": "PA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RR",
+    "CARR_NAME": "Buzz",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "R0",
+    "CARR_NAME": "Tantalus Air",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VV",
+    "CARR_NAME": "Viva Air Peru",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "HC",
+    "CARR_NAME": "Air Senegal",
+    "COUNTRY": "SN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YH",
+    "CARR_NAME": "Sunsplash Aviation LLC",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TZ",
+    "CARR_NAME": "Tsaradia",
+    "COUNTRY": "MG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HT",
+    "CARR_NAME": "Tianjin Air Cargo Co., Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7C8",
+    "CARR_NAME": "Cargolux Italia S.p.A.",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QD",
+    "CARR_NAME": "JC (Cambodia) International Airlines",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7T",
+    "CARR_NAME": "Trenitalia S.p.A.",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "1L",
+    "CARR_NAME": "CitizenPlane",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "ZU",
+    "CARR_NAME": "Ethiopian Mozambique Airlines",
+    "COUNTRY": "MZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZB",
+    "CARR_NAME": "Air Albania",
+    "COUNTRY": "AL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2H",
+    "CARR_NAME": "Thalys International",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8S",
+    "CARR_NAME": "TurboJET",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EX",
+    "CARR_NAME": "Regional Express Americas SAS",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HG",
+    "CARR_NAME": "Hibernian Airlines",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "LE",
+    "CARR_NAME": "Norwegian Air Sweden AB",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "X1",
+    "CARR_NAME": "Hahn Air Technologies",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WC",
+    "CARR_NAME": "Meregrass",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JA",
+    "CARR_NAME": "Jetsmart",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VG",
+    "CARR_NAME": "Vipper BV",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RK",
+    "CARR_NAME": "Ryanair UK Ltd",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "NN",
+    "CARR_NAME": "China Travel Tours Transp Services",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "H8",
+    "CARR_NAME": "Sky Airlines Peru S.A.C",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LZ",
+    "CARR_NAME": "Air Link",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LL",
+    "CARR_NAME": "China General Aviation LTD",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S8",
+    "CARR_NAME": "Sounds Air",
+    "COUNTRY": "NZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A1",
+    "CARR_NAME": "A.P.G. Distribution Systems",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9A",
+    "CARR_NAME": "Gran Colombia de Aviacion",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YB",
+    "CARR_NAME": "Harbour Air Seaplanes",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JK",
+    "CARR_NAME": "Aerolinea Del Caribe S.A.",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "I9",
+    "CARR_NAME": "China Central Airlines CO. Ltd.",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YF",
+    "CARR_NAME": "Department of National Defence",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8A",
+    "CARR_NAME": "Panama Airways",
+    "COUNTRY": "PA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HK",
+    "CARR_NAME": "Skippers Aviation",
+    "COUNTRY": "AU",
+    "STATE": "WA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZN",
+    "CARR_NAME": "Zambia Airways",
+    "COUNTRY": "ZM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DU",
+    "CARR_NAME": "Sky Jet M.G. Inc",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3Q",
+    "CARR_NAME": "Royal Air Charters",
+    "COUNTRY": "ZM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L5",
+    "CARR_NAME": "RED AIR SRL",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JN",
+    "CARR_NAME": "Alaska Air Transit",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L8",
+    "CARR_NAME": "Lulutai Airlines Limited",
+    "COUNTRY": "TO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L4",
+    "CARR_NAME": "The Landline Company",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WM",
+    "CARR_NAME": "WINAIR",
+    "COUNTRY": "SX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EA",
+    "CARR_NAME": "Atlantis-Air Link Ltd.",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GW",
+    "CARR_NAME": "Costa Rica Green Airways",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S9",
+    "CARR_NAME": "flybig",
+    "COUNTRY": "IN",
+    "STATE": "HR",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TI",
+    "CARR_NAME": "Tropic Ocean Airways",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CO",
+    "CARR_NAME": "North-Western Cargo International",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "0C",
+    "CARR_NAME": "Cobra Aviation (Pty) Ltd",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RD",
+    "CARR_NAME": "Sky Cana",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EG",
+    "CARR_NAME": "Aer Lingus UK Limited",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "I6",
+    "CARR_NAME": "Intermodalidad de Levante S.A.",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RI",
+    "CARR_NAME": "PT Rimbun Abadi Aviasi",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EQ",
+    "CARR_NAME": "Fly Angola",
+    "COUNTRY": "AO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MW",
+    "CARR_NAME": "Waltzing Matilda Aviation LLC",
+    "COUNTRY": "US",
+    "STATE": "MA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BD",
+    "CARR_NAME": "Air Inter Transport Co. Ltd",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KR",
+    "CARR_NAME": "Cambodia Airways Co. Ltd",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WE",
+    "CARR_NAME": "Thai Smile Airways",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "IL",
+    "CARR_NAME": "PT Trigana Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VJ",
+    "CARR_NAME": "Vietjet",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "ZK",
+    "CARR_NAME": "Aircompany ZetAvia",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GQ",
+    "CARR_NAME": "Sky Express S.A.",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V7",
+    "CARR_NAME": "Volotea",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "7I",
+    "CARR_NAME": "Air Libya",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TV",
+    "CARR_NAME": "Tibet Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AP",
+    "CARR_NAME": "Alba Star",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "C4",
+    "CARR_NAME": "Conquest Air Inc.",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PF",
+    "CARR_NAME": "Air Sial",
+    "COUNTRY": "PK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F0",
+    "CARR_NAME": "Fly Jordan",
+    "COUNTRY": "JO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "H7",
+    "CARR_NAME": "HiSky",
+    "COUNTRY": "MD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XR",
+    "CARR_NAME": "Corendon Airlines Europe",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XO",
+    "CARR_NAME": "SEAIR International",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "SI",
+    "CARR_NAME": "Blue Islands",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XC",
+    "CARR_NAME": "Corendon Airlines",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CE",
+    "CARR_NAME": "Chalair",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CT",
+    "CARR_NAME": "Alitalia CityLiner S.p.A.",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D0",
+    "CARR_NAME": "DHL Air",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZX",
+    "CARR_NAME": "Pivot Airlines",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TB",
+    "CARR_NAME": "TUI fly Belgium",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4L",
+    "CARR_NAME": "Lineas Aereas Suramericanas",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YC",
+    "CARR_NAME": "Yamal Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LM",
+    "CARR_NAME": "Loganair",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7PE",
+    "CARR_NAME": "Pacific Air Express",
+    "COUNTRY": "SB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NI",
+    "CARR_NAME": "Portugalia",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7P",
+    "CARR_NAME": "Air Panama",
+    "COUNTRY": "PA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2Z",
+    "CARR_NAME": "Passaredo",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FA",
+    "CARR_NAME": "Safair",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7O",
+    "CARR_NAME": "Travel Service Hungary",
+    "COUNTRY": "HU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VI",
+    "CARR_NAME": "Volga-Dnepr Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZQ",
+    "CARR_NAME": "German Airways GmbH & Co.KG",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WI",
+    "CARR_NAME": "White Airways S.A.",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WU",
+    "CARR_NAME": "Western Air",
+    "COUNTRY": "BS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DB",
+    "CARR_NAME": "Maleth-Aero",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6N",
+    "CARR_NAME": "Niger Airlines",
+    "COUNTRY": "NE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P9",
+    "CARR_NAME": "Asia Pacific Airlines",
+    "COUNTRY": "GU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "K8",
+    "CARR_NAME": "InterJet West",
+    "COUNTRY": "US",
+    "STATE": "OH",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VB",
+    "CARR_NAME": "VivaAerobus",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "V4",
+    "CARR_NAME": "Vieques Air Link",
+    "COUNTRY": "PR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5R",
+    "CARR_NAME": "RUTACA",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Y9",
+    "CARR_NAME": "Enerjet",
+    "COUNTRY": "CA",
+    "STATE": "AB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AA",
+    "CARR_NAME": "American Airlines",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OZ",
+    "CARR_NAME": "Asiana Airlines",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8U",
+    "CARR_NAME": "Afriqiyah Airways",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G4",
+    "CARR_NAME": "Allegiant Air LLC",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "GB",
+    "CARR_NAME": "ABX Air, Inc.",
+    "COUNTRY": "US",
+    "STATE": "OH",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G9",
+    "CARR_NAME": "Air Arabia",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AC",
+    "CARR_NAME": "Air Canada",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "78V",
+    "CARR_NAME": "Astral Aviation",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HD",
+    "CARR_NAME": "AirDo",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UX",
+    "CARR_NAME": "Air Europa",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A3",
+    "CARR_NAME": "Aegean Airlines",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7KO",
+    "CARR_NAME": "Alaska Central Express Inc",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FG",
+    "CARR_NAME": "Ariana Afghan Airlines",
+    "COUNTRY": "AF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SU",
+    "CARR_NAME": "Aeroflot Russian Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AF",
+    "CARR_NAME": "Air France",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LD",
+    "CARR_NAME": "AHK Air Hong Kong",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J2",
+    "CARR_NAME": "Azerbaijan Airlines",
+    "COUNTRY": "AZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AI",
+    "CARR_NAME": "Air India",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3H",
+    "CARR_NAME": "Air Inuit",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5A",
+    "CARR_NAME": "Alpine Aviation Inc.",
+    "COUNTRY": "US",
+    "STATE": "UT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FD",
+    "CARR_NAME": "Thai AirAsia",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "IZ",
+    "CARR_NAME": "Arkia - Israeli Airlines",
+    "COUNTRY": "IL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M6",
+    "CARR_NAME": "Amerijet International, Inc.",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NQ",
+    "CARR_NAME": "Air Japan",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EH",
+    "CARR_NAME": "ANA Wings Co., Ltd",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UL",
+    "CARR_NAME": "SriLankan Airlines",
+    "COUNTRY": "LK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KM",
+    "CARR_NAME": "Air Malta",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NX",
+    "CARR_NAME": "Air Macau",
+    "COUNTRY": "MO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AM",
+    "CARR_NAME": "Aeromexico",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NH",
+    "CARR_NAME": "All Nippon Airways",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PX",
+    "CARR_NAME": "Air Niugini",
+    "COUNTRY": "PG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TL",
+    "CARR_NAME": "Airnorth Regional",
+    "COUNTRY": "AU",
+    "STATE": "NT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OY",
+    "CARR_NAME": "Andes Lineas Aereas",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4N",
+    "CARR_NAME": "Air North",
+    "COUNTRY": "CA",
+    "STATE": "YT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NZ",
+    "CARR_NAME": "Air New Zealand",
+    "COUNTRY": "NZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W3",
+    "CARR_NAME": "Arik Air",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AR",
+    "CARR_NAME": "Aerolineas Argentinas",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AS",
+    "CARR_NAME": "Alaska Airlines",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4D",
+    "CARR_NAME": "Air Sinai",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YV",
+    "CARR_NAME": "Mesa Airlines",
+    "COUNTRY": "US",
+    "STATE": "NM",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TC",
+    "CARR_NAME": "Air Tanzania",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OS",
+    "CARR_NAME": "Austrian Airlines AG dba Austrian",
+    "COUNTRY": "AT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PS",
+    "CARR_NAME": "Ukraine International Airlines",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5N",
+    "CARR_NAME": "Smartavia",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GR",
+    "CARR_NAME": "Aurigny Air Services",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AV",
+    "CARR_NAME": "Avianca",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NF",
+    "CARR_NAME": "Air Vanuatu",
+    "COUNTRY": "VU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZW",
+    "CARR_NAME": "Air Wisconsin",
+    "COUNTRY": "US",
+    "STATE": "WI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QZ",
+    "CARR_NAME": "Indonesia AirAsia",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "7E",
+    "CARR_NAME": "Sylt Air",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IX",
+    "CARR_NAME": "Air India Express",
+    "COUNTRY": "IN",
+    "STATE": "MH",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "XU",
+    "CARR_NAME": "African Express Airways",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AK",
+    "CARR_NAME": "AirAsia",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "NS",
+    "CARR_NAME": "Hebei Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AZ",
+    "CARR_NAME": "Alitalia - Societa Aerea Italiana S.p.A",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Z8",
+    "CARR_NAME": "Amaszonas",
+    "COUNTRY": "BO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UM",
+    "CARR_NAME": "Air Zimbabwe",
+    "COUNTRY": "ZW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BA",
+    "CARR_NAME": "British Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BG",
+    "CARR_NAME": "Biman Bangladesh Airlines",
+    "COUNTRY": "BD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WX",
+    "CARR_NAME": "City Jet",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7BZ",
+    "CARR_NAME": "Blue Dart Aviation Limited",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UP",
+    "CARR_NAME": "Bahamasair",
+    "COUNTRY": "BS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PG",
+    "CARR_NAME": "Bangkok Airways",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JV",
+    "CARR_NAME": "Perimeter Aviation LP dba Bearskin A/L",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CH",
+    "CARR_NAME": "Bemidji Airlines",
+    "COUNTRY": "US",
+    "STATE": "MN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BP",
+    "CARR_NAME": "Air Botswana",
+    "COUNTRY": "BW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BV",
+    "CARR_NAME": "Blue Panorama Airlines",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8E",
+    "CARR_NAME": "Bering Air",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UZ",
+    "CARR_NAME": "Buraq Air",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B2",
+    "CARR_NAME": "Belavia",
+    "COUNTRY": "BY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BT",
+    "CARR_NAME": "Air Baltic Corporation",
+    "COUNTRY": "LV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J8",
+    "CARR_NAME": "Berjaya Air",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BW",
+    "CARR_NAME": "Caribbean Airlines",
+    "COUNTRY": "TT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CI",
+    "CARR_NAME": "China Airlines",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MO",
+    "CARR_NAME": "Calm Air Intl Ltd",
+    "COUNTRY": "CA",
+    "STATE": "MB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MN",
+    "CARR_NAME": "Comair",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KX",
+    "CARR_NAME": "Cayman Airways",
+    "COUNTRY": "KY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CA",
+    "CARR_NAME": "Air China",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SC",
+    "CARR_NAME": "Shandong Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5J",
+    "CARR_NAME": "Cebu Pacific Air",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "C2",
+    "CARR_NAME": "CEIBA Intercontinental",
+    "COUNTRY": "GQ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MU",
+    "CARR_NAME": "China Eastern Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DE",
+    "CARR_NAME": "Condor Flugdienst",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HU",
+    "CARR_NAME": "Hainan Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NA",
+    "CARR_NAME": "Nesma Airlines Company Ltd",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W8",
+    "CARR_NAME": "Cargojet Airways Ltd.",
+    "COUNTRY": "CA",
+    "STATE": "MB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CK",
+    "CARR_NAME": "China Cargo Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RP",
+    "CARR_NAME": "BASe Airlines",
+    "COUNTRY": "HU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "K4",
+    "CARR_NAME": "Kalitta Air",
+    "COUNTRY": "US",
+    "STATE": "MI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CL",
+    "CARR_NAME": "Lufthansa Cityline Gmbh",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CV",
+    "CARR_NAME": "Cargolux Airlines International",
+    "COUNTRY": "LU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CM",
+    "CARR_NAME": "COPA Airlines",
+    "COUNTRY": "PA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OH",
+    "CARR_NAME": "PSA Airlines, Inc.",
+    "COUNTRY": "US",
+    "STATE": "OH",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "77C",
+    "CARR_NAME": "Coyne Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "77C",
+    "CARR_NAME": "Coyne Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CX",
+    "CARR_NAME": "Cathay Pacific Airways",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9Q",
+    "CARR_NAME": "Caicos Express Airways",
+    "COUNTRY": "TC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9C",
+    "CARR_NAME": "Spring Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "HX",
+    "CARR_NAME": "Hong Kong Airlines",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SS",
+    "CARR_NAME": "Corsair",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YN",
+    "CARR_NAME": "Air Creebec (1994) Inc.",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OK",
+    "CARR_NAME": "Czech Airlines",
+    "COUNTRY": "CZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3U",
+    "CARR_NAME": "Sichuan Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FM",
+    "CARR_NAME": "Shanghai Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZH",
+    "CARR_NAME": "Shenzhen Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OU",
+    "CARR_NAME": "Croatia Airlines",
+    "COUNTRY": "HR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KN",
+    "CARR_NAME": "China United Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "CU",
+    "CARR_NAME": "Cubana de Aviacion S.A",
+    "COUNTRY": "CU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3C",
+    "CARR_NAME": "Air Chathams",
+    "COUNTRY": "NZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MF",
+    "CARR_NAME": "Xiamen Airlines Company",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XP",
+    "CARR_NAME": "Avelo Airways",
+    "COUNTRY": "US",
+    "STATE": "NV",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CF",
+    "CARR_NAME": "China Postal Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D5",
+    "CARR_NAME": "Dhl Aero Expreso S.A.",
+    "COUNTRY": "PA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AH",
+    "CARR_NAME": "Air Algerie",
+    "COUNTRY": "DZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DL",
+    "CARR_NAME": "Delta Air Lines",
+    "COUNTRY": "US",
+    "STATE": "GA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SN",
+    "CARR_NAME": "Brussels Airlines",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JD",
+    "CARR_NAME": "Beijing Capital Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EM",
+    "CARR_NAME": "Empire Airlines",
+    "COUNTRY": "US",
+    "STATE": "ID",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HO",
+    "CARR_NAME": "Juneyao Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EN",
+    "CARR_NAME": "Air Dolomiti S.p.A L.A.R.E",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q2",
+    "CARR_NAME": "Maldivian",
+    "COUNTRY": "MV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KB",
+    "CARR_NAME": "Royal Bhutan Airlines",
+    "COUNTRY": "BT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DT",
+    "CARR_NAME": "TAAG Angola Airlines",
+    "COUNTRY": "AO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DX",
+    "CARR_NAME": "DAT",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WK",
+    "CARR_NAME": "Edelweiss Air",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MQ",
+    "CARR_NAME": "Envoy Air Inc",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EI",
+    "CARR_NAME": "Aer Lingus",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LY",
+    "CARR_NAME": "El Al Israel Airlines",
+    "COUNTRY": "IL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B8",
+    "CARR_NAME": "Eritrean Airlines",
+    "COUNTRY": "ER",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EY",
+    "CARR_NAME": "Etihad Airways",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ET",
+    "CARR_NAME": "Ethiopian Airlines",
+    "COUNTRY": "ET",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BR",
+    "CARR_NAME": "EVA Airways",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EW",
+    "CARR_NAME": "Eurowings",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "LS",
+    "CARR_NAME": "Jet2.com",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "B5",
+    "CARR_NAME": "East African Safari Air Express",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T3",
+    "CARR_NAME": "Eastern Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DS",
+    "CARR_NAME": "easyjet Switzerland SA",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "U2",
+    "CARR_NAME": "easyJet",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "7F",
+    "CARR_NAME": "First Air",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FY",
+    "CARR_NAME": "Firefly",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F9",
+    "CARR_NAME": "Frontier Airlines Inc.",
+    "COUNTRY": "US",
+    "STATE": "CO",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "5H",
+    "CARR_NAME": "Five Forty Aviation",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AY",
+    "CARR_NAME": "Finnair",
+    "COUNTRY": "FI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FJ",
+    "CARR_NAME": "Fiji Airways",
+    "COUNTRY": "FJ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5M",
+    "CARR_NAME": "FlyMontserrat",
+    "COUNTRY": "MS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9E",
+    "CARR_NAME": "Endeavor Air",
+    "COUNTRY": "US",
+    "STATE": "TN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RC",
+    "CARR_NAME": "Atlantic Airways Faroe Islands",
+    "COUNTRY": "FO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5O",
+    "CARR_NAME": "ASL Airlines France",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TX",
+    "CARR_NAME": "Air Caraibes",
+    "COUNTRY": "GP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3M",
+    "CARR_NAME": "SILVER AIRWAYS LLC",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2P",
+    "CARR_NAME": "PAL Express",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GS",
+    "CARR_NAME": "TianJin Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CN",
+    "CARR_NAME": "Grand China Air",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GF",
+    "CARR_NAME": "Gulf Air",
+    "COUNTRY": "BH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GA",
+    "CARR_NAME": "Garuda Indonesia",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G7",
+    "CARR_NAME": "GoJet Airlines",
+    "COUNTRY": "US",
+    "STATE": "MO",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2K",
+    "CARR_NAME": "AVIANCA-Ecuador",
+    "COUNTRY": "EC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9M",
+    "CARR_NAME": "Central Mountain Air Ltd.",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G8",
+    "CARR_NAME": "Go Air",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "GL",
+    "CARR_NAME": "Air Greenland",
+    "COUNTRY": "GL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5Y",
+    "CARR_NAME": "Atlas Air",
+    "COUNTRY": "US",
+    "STATE": "NY",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GU",
+    "CARR_NAME": "Aviateca",
+    "COUNTRY": "GT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GV",
+    "CARR_NAME": "Grant Aviation, Inc.",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3S",
+    "CARR_NAME": "Air Antilles",
+    "COUNTRY": "GF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4U",
+    "CARR_NAME": "germanwings",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "4G",
+    "CARR_NAME": "Gazpromavia",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "H6",
+    "CARR_NAME": "Hageland Aviation Services Inc",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HA",
+    "CARR_NAME": "Hawaiian Airlines",
+    "COUNTRY": "US",
+    "STATE": "HI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UO",
+    "CARR_NAME": "HK Express",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "X3",
+    "CARR_NAME": "TUIfly",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VN",
+    "CARR_NAME": "Vietnam Airlines",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G5",
+    "CARR_NAME": "China Express Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V8",
+    "CARR_NAME": "Iliamna Air Taxi",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NT",
+    "CARR_NAME": "Binter Canarias",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IB",
+    "CARR_NAME": "Iberia",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FW",
+    "CARR_NAME": "IBEX Airlines",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FI",
+    "CARR_NAME": "Icelandair",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "75C",
+    "CARR_NAME": "C.A.L. Cargo Airlines",
+    "COUNTRY": "IL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6E",
+    "CARR_NAME": "IndiGo",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "IR",
+    "CARR_NAME": "Iran Air",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B9",
+    "CARR_NAME": "Iran Airtour Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EP",
+    "CARR_NAME": "Iran Aseman Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W5",
+    "CARR_NAME": "Mahan Air",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6H",
+    "CARR_NAME": "Israir",
+    "COUNTRY": "IL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JY",
+    "CARR_NAME": "Intercaribbean Airways Ltd",
+    "COUNTRY": "TC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IY",
+    "CARR_NAME": "Yemenia Yemen Airways",
+    "COUNTRY": "YE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JL",
+    "CARR_NAME": "Japan Airlines",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3Z",
+    "CARR_NAME": "Smartwings Poland Sp. z o.o.",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B6",
+    "CARR_NAME": "Jetblue Airways Corporation",
+    "COUNTRY": "US",
+    "STATE": "CT",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "7C",
+    "CARR_NAME": "Jeju Airlines",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "T6",
+    "CARR_NAME": "AirSWIFT",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3K",
+    "CARR_NAME": "Jetstar Asia",
+    "COUNTRY": "SG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "JQ",
+    "CARR_NAME": "Jetstar Airways",
+    "COUNTRY": "AU",
+    "STATE": "VI",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "NU",
+    "CARR_NAME": "Japan Transocean Air",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QK",
+    "CARR_NAME": "Air Canada Jazz",
+    "COUNTRY": "CA",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J9",
+    "CARR_NAME": "Jazeera Airways",
+    "COUNTRY": "KW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KU",
+    "CARR_NAME": "Kuwait Airways",
+    "COUNTRY": "KW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KE",
+    "CARR_NAME": "Korean Air",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9K",
+    "CARR_NAME": "Cape Air",
+    "COUNTRY": "US",
+    "STATE": "MA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M5",
+    "CARR_NAME": "Kenmore Air",
+    "COUNTRY": "US",
+    "STATE": "WA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RE",
+    "CARR_NAME": "Stobart Air",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WA",
+    "CARR_NAME": "KLM Cityhopper",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KL",
+    "CARR_NAME": "KLM-Royal Dutch Airlines",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RQ",
+    "CARR_NAME": "Kam Air",
+    "COUNTRY": "AF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8K",
+    "CARR_NAME": "K-Mile Air Co",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JS",
+    "CARR_NAME": "Air Koryo",
+    "COUNTRY": "KP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KQ",
+    "CARR_NAME": "Kenya Airways",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V3",
+    "CARR_NAME": "Carpatair",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KC",
+    "CARR_NAME": "Air Astana",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LN",
+    "CARR_NAME": "Libyan Airlines",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TM",
+    "CARR_NAME": "LAM-Linhas Aereas de Mocambique",
+    "COUNTRY": "MZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LA",
+    "CARR_NAME": "LATAM Airlines Group",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QV",
+    "CARR_NAME": "Lao Airlines",
+    "COUNTRY": "LA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PZ",
+    "CARR_NAME": "LATAM Airlines Paraguay",
+    "COUNTRY": "PY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BJ",
+    "CARR_NAME": "Nouvelair",
+    "COUNTRY": "TN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UC",
+    "CARR_NAME": "LATAM Cargo Chile",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QL",
+    "CARR_NAME": "LASER Airlines",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LG",
+    "CARR_NAME": "Luxair",
+    "COUNTRY": "LU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "0B",
+    "CARR_NAME": "Blue Air",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "4Z",
+    "CARR_NAME": "South African Airlink",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AX",
+    "CARR_NAME": "Trans States Airlines",
+    "COUNTRY": "US",
+    "STATE": "MO",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LO",
+    "CARR_NAME": "LOT - Polish Airlines",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LP",
+    "CARR_NAME": "LATAM Airlines Peru",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LR",
+    "CARR_NAME": "Avianca Costa Rica S.A.",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RZ",
+    "CARR_NAME": "SANSA Airlines",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YX",
+    "CARR_NAME": "Republic Airways",
+    "COUNTRY": "US",
+    "STATE": "IN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L2",
+    "CARR_NAME": "Lynden Air Cargo",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MH",
+    "CARR_NAME": "Malaysia Airlines",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MK",
+    "CARR_NAME": "Air Mauritius",
+    "COUNTRY": "MU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YO",
+    "CARR_NAME": "Heli Air Monaco",
+    "COUNTRY": "MC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AE",
+    "CARR_NAME": "Mandarin Airlines",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MD",
+    "CARR_NAME": "Air Madagascar",
+    "COUNTRY": "MG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ME",
+    "CARR_NAME": "Middle East Airlines",
+    "COUNTRY": "LB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OM",
+    "CARR_NAME": "MIAT - Mongolian Airlines",
+    "COUNTRY": "MN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q5",
+    "CARR_NAME": "40 Mile Air",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9U",
+    "CARR_NAME": "Air Moldova",
+    "COUNTRY": "MD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8M",
+    "CARR_NAME": "Myanmar Airways International",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MB",
+    "CARR_NAME": "MNG Airlines Cargo",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JE",
+    "CARR_NAME": "Mango",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "SG",
+    "CARR_NAME": "SpiceJet",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "5T",
+    "CARR_NAME": "Canadian North",
+    "COUNTRY": "CA",
+    "STATE": "NT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MP",
+    "CARR_NAME": "Martinair Holland",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M9",
+    "CARR_NAME": "Motor Sich PJSC",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MS",
+    "CARR_NAME": "Egyptair",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NC",
+    "CARR_NAME": "Northern Air Cargo, Inc.",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DY",
+    "CARR_NAME": "Norwegian Air Shuttle",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "KZ",
+    "CARR_NAME": "Nippon Cargo Airlines",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NK",
+    "CARR_NAME": "Spirit Airlines",
+    "COUNTRY": "US",
+    "STATE": "MI",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "DD",
+    "CARR_NAME": "Nok Air",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "9R",
+    "CARR_NAME": "Satena",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S0",
+    "CARR_NAME": "AeroLineas Sosa",
+    "COUNTRY": "HN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HW",
+    "CARR_NAME": "North-Wright Airways Ltd.",
+    "COUNTRY": "CA",
+    "STATE": "NT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2L",
+    "CARR_NAME": "Helvetic Airways",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BK",
+    "CARR_NAME": "Okay Airways",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PO",
+    "CARR_NAME": "Polar Air Cargo",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PR",
+    "CARR_NAME": "Philippine Airlines",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OL",
+    "CARR_NAME": "Samoa Airways",
+    "COUNTRY": "WS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8P",
+    "CARR_NAME": "Pacific Coastal Airlines Limited",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P0",
+    "CARR_NAME": "Proflight Zambia",
+    "COUNTRY": "ZM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PC",
+    "CARR_NAME": "Pegasus Airlines",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "PK",
+    "CARR_NAME": "Pakistan International Airlines",
+    "COUNTRY": "PK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BL",
+    "CARR_NAME": "Pacific Airlines",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "FV",
+    "CARR_NAME": "Rossiya Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EB",
+    "CARR_NAME": "Wamos Air S.A.",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J3",
+    "CARR_NAME": "Northwestern Air Lease Ltd.",
+    "COUNTRY": "CA",
+    "STATE": "NT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PD",
+    "CARR_NAME": "Porter Airlines Inc.",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PW",
+    "CARR_NAME": "Precision Air Services Plc",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QF",
+    "CARR_NAME": "Qantas Airways",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QR",
+    "CARR_NAME": "Qatar Airways",
+    "COUNTRY": "QA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QX",
+    "CARR_NAME": "Horizon Air",
+    "COUNTRY": "US",
+    "STATE": "WA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AT",
+    "CARR_NAME": "Royal Air Maroc",
+    "COUNTRY": "MA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BI",
+    "CARR_NAME": "Royal Brunei Airlines",
+    "COUNTRY": "BN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3N",
+    "CARR_NAME": "Air Urga",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UU",
+    "CARR_NAME": "Air Austral",
+    "COUNTRY": "RE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RJ",
+    "CARR_NAME": "Royal Jordanian",
+    "COUNTRY": "JO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A5",
+    "CARR_NAME": "HOP!",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RA",
+    "CARR_NAME": "Nepal Airlines Corporation",
+    "COUNTRY": "NP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9V",
+    "CARR_NAME": "Avior Airlines",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ON",
+    "CARR_NAME": "Nauru Airlines",
+    "COUNTRY": "NR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RO",
+    "CARR_NAME": "Tarom",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P5",
+    "CARR_NAME": "Aero Republica",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WB",
+    "CARR_NAME": "RwandAir",
+    "COUNTRY": "RW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7S",
+    "CARR_NAME": "Ryan Air",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FR",
+    "CARR_NAME": "Ryanair",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "S4",
+    "CARR_NAME": "SATA International-Azores Airlines S.A.",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SA",
+    "CARR_NAME": "South African Airways",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SK",
+    "CARR_NAME": "SAS Scandinavian Airlines",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SP",
+    "CARR_NAME": "SATA Air Acores",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S7",
+    "CARR_NAME": "S7 Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BB",
+    "CARR_NAME": "Seaborne Airlines",
+    "COUNTRY": "VI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PV",
+    "CARR_NAME": "Saint Barth Commuter",
+    "COUNTRY": "GP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TF",
+    "CARR_NAME": "Braathens Regional Aviation",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SY",
+    "CARR_NAME": "Sun Country Airlines",
+    "COUNTRY": "US",
+    "STATE": "MN",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "HM",
+    "CARR_NAME": "Air Seychelles",
+    "COUNTRY": "SC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7G",
+    "CARR_NAME": "Star Flyer",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HZ",
+    "CARR_NAME": "JSC Aurora Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SQ",
+    "CARR_NAME": "Singapore Airlines",
+    "COUNTRY": "SG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SJ",
+    "CARR_NAME": "Sriwijaya Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OO",
+    "CARR_NAME": "SkyWest Airlines",
+    "COUNTRY": "US",
+    "STATE": "UT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BC",
+    "CARR_NAME": "Skymark Airlines",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "MI",
+    "CARR_NAME": "SilkAir",
+    "COUNTRY": "SG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PY",
+    "CARR_NAME": "Surinam Airways",
+    "COUNTRY": "SR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PL",
+    "CARR_NAME": "Southern Air Charter",
+    "COUNTRY": "BS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IE",
+    "CARR_NAME": "Solomon Airlines Limited",
+    "COUNTRY": "SB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PJ",
+    "CARR_NAME": "Air Saint-Pierre",
+    "COUNTRY": "PM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2I",
+    "CARR_NAME": "Star Peru",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "D2",
+    "CARR_NAME": "Severstal Aircompany",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8F",
+    "CARR_NAME": "STP Airways",
+    "COUNTRY": "ST",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SD",
+    "CARR_NAME": "Sudan Airways",
+    "COUNTRY": "SD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EZ",
+    "CARR_NAME": "Sun Air Of Scandinavia",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SV",
+    "CARR_NAME": "Saudi Arabian Airlines",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "U6",
+    "CARR_NAME": "Ural Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WN",
+    "CARR_NAME": "Southwest Airlines",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "WG",
+    "CARR_NAME": "Sunwing Airlines Inc.",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LX",
+    "CARR_NAME": "SWISS",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XQ",
+    "CARR_NAME": "SunExpress",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "R3",
+    "CARR_NAME": "Yakutia",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RB",
+    "CARR_NAME": "Syrian Arab Airlines",
+    "COUNTRY": "SY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TA",
+    "CARR_NAME": "Taca International Airlines",
+    "COUNTRY": "SV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JJ",
+    "CARR_NAME": "LATAM Airlines Brasil",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B4",
+    "CARR_NAME": "ZanAir",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VW",
+    "CARR_NAME": "Transportes Aeromar S.A. de C.V.",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TP",
+    "CARR_NAME": "TAP Air Portugal",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TU",
+    "CARR_NAME": "Tunisair",
+    "COUNTRY": "TN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3V",
+    "CARR_NAME": "ASL Airlines Belgium",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VR",
+    "CARR_NAME": "TACV Cabo Verde Airlines",
+    "COUNTRY": "CV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OR",
+    "CARR_NAME": "TUI fly Netherlands",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TR",
+    "CARR_NAME": "Scoot",
+    "COUNTRY": "SG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "A9",
+    "CARR_NAME": "Georgian Airways",
+    "COUNTRY": "GE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TG",
+    "CARR_NAME": "Thai Airways International",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TN",
+    "CARR_NAME": "Air Tahiti Nui",
+    "COUNTRY": "PF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TK",
+    "CARR_NAME": "Turkish Airlines",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7J",
+    "CARR_NAME": "Tajik Air",
+    "COUNTRY": "TJ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T7",
+    "CARR_NAME": "Twin Jet",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "76R",
+    "CARR_NAME": "Aerounion",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Z3",
+    "CARR_NAME": "Tanana Air Service",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CG",
+    "CARR_NAME": "PNG Air Limited",
+    "COUNTRY": "PG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TY",
+    "CARR_NAME": "Air Caledonie",
+    "COUNTRY": "NC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "K3",
+    "CARR_NAME": "Taquan Air",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HV",
+    "CARR_NAME": "transavia.com",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "TS",
+    "CARR_NAME": "Air Transat A.T.Inc.",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TH",
+    "CARR_NAME": "Raya Airways",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T5",
+    "CARR_NAME": "Turkmenistan Airlines",
+    "COUNTRY": "TM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QS",
+    "CARR_NAME": "Smartwings",
+    "COUNTRY": "CZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EK",
+    "CARR_NAME": "Emirates",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UA",
+    "CARR_NAME": "United Airlines",
+    "COUNTRY": "US",
+    "STATE": "IL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "C5",
+    "CARR_NAME": "CommutAir",
+    "COUNTRY": "US",
+    "STATE": "NY",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EU",
+    "CARR_NAME": "Chengdu Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B7",
+    "CARR_NAME": "UNI Airways",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5X",
+    "CARR_NAME": "United Parcel Service Co.",
+    "COUNTRY": "US",
+    "STATE": "KY",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UT",
+    "CARR_NAME": "UTair Aviation",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HY",
+    "CARR_NAME": "Uzbekistan Airways",
+    "COUNTRY": "UZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2J",
+    "CARR_NAME": "Air Burkina",
+    "COUNTRY": "BF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V0",
+    "CARR_NAME": "Conviasa",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7V4",
+    "CARR_NAME": "Vensecar Internacional, C.A.",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "0V",
+    "CARR_NAME": "Vietnam Air Service Company",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VS",
+    "CARR_NAME": "Virgin Atlantic Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VY",
+    "CARR_NAME": "Vueling Airlines",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "Y4",
+    "CARR_NAME": "Volaris",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "DV",
+    "CARR_NAME": "Air Company Scat",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VT",
+    "CARR_NAME": "Air Tahiti",
+    "COUNTRY": "PF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5V",
+    "CARR_NAME": "Everts Air",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4W",
+    "CARR_NAME": "Warbelow's Air Ventures Inc.",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WF",
+    "CARR_NAME": "Wideroe's Flyveselskap",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WS",
+    "CARR_NAME": "WestJet",
+    "COUNTRY": "CA",
+    "STATE": "AB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IW",
+    "CARR_NAME": "Wings Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8V",
+    "CARR_NAME": "Wright Air Service",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W6",
+    "CARR_NAME": "Wizz Air",
+    "COUNTRY": "HU",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "P2",
+    "CARR_NAME": "AirKenya Express",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Y8",
+    "CARR_NAME": "Suparna Airlines Co",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P8",
+    "CARR_NAME": "Sprintair",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5D",
+    "CARR_NAME": "Aeromexico Connect",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NY",
+    "CARR_NAME": "Air Iceland Connect",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LH",
+    "CARR_NAME": "Deutsche Lufthansa AG",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IN",
+    "CARR_NAME": "NAM Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A7",
+    "CARR_NAME": "Calafia Airlines",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P4",
+    "CARR_NAME": "Air Peace",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IU",
+    "CARR_NAME": "PT. Super Air Jet",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2F",
+    "CARR_NAME": "Two Taxi Aereo Ltda",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9H",
+    "CARR_NAME": "Changan Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LT",
+    "CARR_NAME": "LongJiang Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OQ",
+    "CARR_NAME": "Chongqing Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GT",
+    "CARR_NAME": "Air Guilin Co. Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6J",
+    "CARR_NAME": "Solaseed",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "8Z",
+    "CARR_NAME": "Congo Airways",
+    "COUNTRY": "CD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "P6",
+    "CARR_NAME": "Pascan Aviation Inc.",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RY",
+    "CARR_NAME": "Jiangxi Air",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IT",
+    "CARR_NAME": "Tigerair Taiwan Co. Ltd",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "MX",
+    "CARR_NAME": "Breeze Airways",
+    "COUNTRY": "US",
+    "STATE": "UT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FE",
+    "CARR_NAME": "Fly 748",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OG",
+    "CARR_NAME": "Fly Play",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "FL",
+    "CARR_NAME": "Air Leap",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XK",
+    "CARR_NAME": "Air Corsica",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5L",
+    "CARR_NAME": "Transportes Aereos Costarricenses",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7B",
+    "CARR_NAME": "Bees Airline",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "BX",
+    "CARR_NAME": "Air Busan",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "0J",
+    "CARR_NAME": "Premium Jet AG",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6O",
+    "CARR_NAME": "Orbest",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M7",
+    "CARR_NAME": "Mas Air",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N7",
+    "CARR_NAME": "Nordic Regional Airlines",
+    "COUNTRY": "FI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YT",
+    "CARR_NAME": "Yeti Airlines",
+    "COUNTRY": "NP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TJ",
+    "CARR_NAME": "Tradewind Aviation",
+    "COUNTRY": "US",
+    "STATE": "CT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5S",
+    "CARR_NAME": "Global Aviation and Service Group",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D9",
+    "CARR_NAME": "Daallo Airlines(Somalia)",
+    "COUNTRY": "SO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FS",
+    "CARR_NAME": "Flyr",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HJ",
+    "CARR_NAME": "Tasman Cargo Airlines Pty Ltd",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "H4",
+    "CARR_NAME": "HiSky Europe SRL",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4S",
+    "CARR_NAME": "Solar Cargo",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W2",
+    "CARR_NAME": "FlexFlight ApS",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UB",
+    "CARR_NAME": "Myanmar National Airlines",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YK",
+    "CARR_NAME": "Avia Traffic Company",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OX",
+    "CARR_NAME": "One Airways, S.A.U",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "X9",
+    "CARR_NAME": "Avion Express",
+    "COUNTRY": "LT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KO",
+    "CARR_NAME": "Komiaviatrans",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IM",
+    "CARR_NAME": "LLP Air Company Jupiter Jet",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KH",
+    "CARR_NAME": "Aloha Air Cargo",
+    "COUNTRY": "US",
+    "STATE": "HI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JH",
+    "CARR_NAME": "Fuji Dream Airlines",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FN",
+    "CARR_NAME": "Fastjet Zimbabwe",
+    "COUNTRY": "ZW",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "ND",
+    "CARR_NAME": "Nordica",
+    "COUNTRY": "EE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QT",
+    "CARR_NAME": "Tampa Cargo S.A.S",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D7",
+    "CARR_NAME": "AirAsia X",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "BO",
+    "CARR_NAME": "Bluebird Cargo",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LJ",
+    "CARR_NAME": "Jin Air",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "KY",
+    "CARR_NAME": "Kunming Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3O",
+    "CARR_NAME": "Air Arabia Maroc",
+    "COUNTRY": "MA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "2M",
+    "CARR_NAME": "Maya Island Air",
+    "COUNTRY": "BZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SZ",
+    "CARR_NAME": "Somon Air",
+    "COUNTRY": "TJ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PP",
+    "CARR_NAME": "Jet Aviation Business Jets AG",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UJ",
+    "CARR_NAME": "Al Masria Universal Airlines",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3T",
+    "CARR_NAME": "Tarco Aviation",
+    "COUNTRY": "SD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QQ",
+    "CARR_NAME": "Alliance Airlines",
+    "COUNTRY": "AU",
+    "STATE": "QL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PN",
+    "CARR_NAME": "West Air",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LU",
+    "CARR_NAME": "LanExpress",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FZ",
+    "CARR_NAME": "flydubai",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "Y7",
+    "CARR_NAME": "NordStar",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XY",
+    "CARR_NAME": "FLYNAS",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "R6",
+    "CARR_NAME": "DAT LT",
+    "COUNTRY": "LT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VA",
+    "CARR_NAME": "Virgin Australia International",
+    "COUNTRY": "AU",
+    "STATE": "QL",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "FX",
+    "CARR_NAME": "Fedex",
+    "COUNTRY": "US",
+    "STATE": "TN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PA",
+    "CARR_NAME": "Airblue",
+    "COUNTRY": "PK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YQ",
+    "CARR_NAME": "TAR Aerolineas",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6L",
+    "CARR_NAME": "CargoLogic Germany GmbH",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8H",
+    "CARR_NAME": "BH Air Ltd",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E5",
+    "CARR_NAME": "Air Arabia Egypt",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "O3",
+    "CARR_NAME": "SF Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M0",
+    "CARR_NAME": "Aero Mongolia",
+    "COUNTRY": "MN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7ZP",
+    "CARR_NAME": "Silk Way Airlines",
+    "COUNTRY": "AZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L6",
+    "CARR_NAME": "Mauritanian Airlines International",
+    "COUNTRY": "MR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7R",
+    "CARR_NAME": "Joint Stock Aviation Company RusLine",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "U8",
+    "CARR_NAME": "TUS Airways",
+    "COUNTRY": "CY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G2",
+    "CARR_NAME": "Gullivair",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XE",
+    "CARR_NAME": "JSX",
+    "COUNTRY": "US",
+    "STATE": "SD",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L7",
+    "CARR_NAME": "LATAM Cargo Colombia",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8L",
+    "CARR_NAME": "Lucky Air Co. Ltd.",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J4",
+    "CARR_NAME": "Badr Airlines",
+    "COUNTRY": "SD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F8",
+    "CARR_NAME": "Flair Airlines",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "J6",
+    "CARR_NAME": "Seawings",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2Q",
+    "CARR_NAME": "Air Cargo Carriers",
+    "COUNTRY": "US",
+    "STATE": "WI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F2",
+    "CARR_NAME": "SafariLink",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "H2",
+    "CARR_NAME": "Sky Airline",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "CJ",
+    "CARR_NAME": "BA Cityflyer",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CZ",
+    "CARR_NAME": "China Southern Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6D",
+    "CARR_NAME": "Smartwings Slovakia s.r.o",
+    "COUNTRY": "SK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PE",
+    "CARR_NAME": "People's",
+    "COUNTRY": "AT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "I8",
+    "CARR_NAME": "Izhavia",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IK",
+    "CARR_NAME": "Air Kiribati",
+    "COUNTRY": "KI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AW",
+    "CARR_NAME": "Africa World Airlines Limited",
+    "COUNTRY": "GH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8Q",
+    "CARR_NAME": "Onur Air Tasimacilik A.S.",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "TE",
+    "CARR_NAME": "SkyTaxi",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "K7",
+    "CARR_NAME": "Air KBZ",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NE",
+    "CARR_NAME": "Nesma Airlines",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q3",
+    "CARR_NAME": "Anguilla Air Services",
+    "COUNTRY": "AI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2G",
+    "CARR_NAME": "Angara Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QB",
+    "CARR_NAME": "Faraz Qeshm Airline",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ES",
+    "CARR_NAME": "Estelar Latinoamerica C.A.",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MM",
+    "CARR_NAME": "Peach Aviation Limited",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "IO",
+    "CARR_NAME": "IrAero",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3J",
+    "CARR_NAME": "Jubba Airways Ltd",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VP",
+    "CARR_NAME": "Flyme",
+    "COUNTRY": "MV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AD",
+    "CARR_NAME": "Azul Airlines",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "JT",
+    "CARR_NAME": "Lion Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "V9",
+    "CARR_NAME": "Citywing",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RG",
+    "CARR_NAME": "Rotanajet Aviation",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TW",
+    "CARR_NAME": "T'way Air",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "4M",
+    "CARR_NAME": "LATAM Airlines Argentina",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5K",
+    "CARR_NAME": "Hi Fly Transportes Aereos",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TO",
+    "CARR_NAME": "Transavia.com France",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "XL",
+    "CARR_NAME": "LATAM Airlines Ecuador",
+    "COUNTRY": "EC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4C",
+    "CARR_NAME": "LATAM Airlines Colombia",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WT",
+    "CARR_NAME": "Swiftair",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LF",
+    "CARR_NAME": "Contour Airlines",
+    "COUNTRY": "US",
+    "STATE": "TN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "X5",
+    "CARR_NAME": "Air Europa Express",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NO",
+    "CARR_NAME": "Neos Air",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FB",
+    "CARR_NAME": "Bulgaria Air",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E7",
+    "CARR_NAME": "Equaflight",
+    "COUNTRY": "CD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MY",
+    "CARR_NAME": "MASWings",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QA",
+    "CARR_NAME": "Queen Bilqis Airways",
+    "COUNTRY": "YE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ED",
+    "CARR_NAME": "Air Explore",
+    "COUNTRY": "SK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "C7",
+    "CARR_NAME": "Cinnamon Air",
+    "COUNTRY": "LK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6I",
+    "CARR_NAME": "Air Alsie",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UI",
+    "CARR_NAME": "Auric Air",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PT",
+    "CARR_NAME": "Piedmont Airlines Inc.",
+    "COUNTRY": "US",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B3",
+    "CARR_NAME": "Bhutan Airlines",
+    "COUNTRY": "BT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IA",
+    "CARR_NAME": "Iraqi Airways",
+    "COUNTRY": "IQ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "O2",
+    "CARR_NAME": "Linear Air",
+    "COUNTRY": "US",
+    "STATE": "NY",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E9",
+    "CARR_NAME": "Iberojet Airlines",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YU",
+    "CARR_NAME": "Euroatlantic Airways",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZF",
+    "CARR_NAME": "AZUR air",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5Z",
+    "CARR_NAME": "Cemair",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UG",
+    "CARR_NAME": "TunisAir Express",
+    "COUNTRY": "TN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7.00E+07",
+    "CARR_NAME": "Estafeta Carga Aerea",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F4",
+    "CARR_NAME": "Air Flamenco",
+    "COUNTRY": "PR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N9",
+    "CARR_NAME": "Shree Airlines",
+    "COUNTRY": "NP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "X8",
+    "CARR_NAME": "AirMax Cargo S.A",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OA",
+    "CARR_NAME": "Olympic Air",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3E",
+    "CARR_NAME": "Multi-Aero, Inc. d/b/a Air Choice One",
+    "COUNTRY": "US",
+    "STATE": "MO",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PB",
+    "CARR_NAME": "PAL Airlines",
+    "COUNTRY": "CA",
+    "STATE": "NL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RU",
+    "CARR_NAME": "AirBridgeCargo",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4E",
+    "CARR_NAME": "Stabo Air",
+    "COUNTRY": "ZM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9I",
+    "CARR_NAME": "Alliance Air",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GJ",
+    "CARR_NAME": "Zhejiang Loong Airlines Co. Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OI",
+    "CARR_NAME": "Hinterland Aviation",
+    "COUNTRY": "AU",
+    "STATE": "QL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9D",
+    "CARR_NAME": "Genghis Khan Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MT",
+    "CARR_NAME": "Malta MedAir",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7L",
+    "CARR_NAME": "Silk Way West Airlines",
+    "COUNTRY": "AZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "77T",
+    "CARR_NAME": "Trans Am Aero Exp. del Ecuador Cia.Ltda",
+    "COUNTRY": "EC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7U",
+    "CARR_NAME": "Commercial Aviation Services, LLC",
+    "COUNTRY": "US",
+    "STATE": "PA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7W",
+    "CARR_NAME": "Wind Rose Aviation",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8N",
+    "CARR_NAME": "Regional Air Services",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9J",
+    "CARR_NAME": "Dana Air",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9N",
+    "CARR_NAME": "Tropic Air",
+    "COUNTRY": "BZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A8",
+    "CARR_NAME": "Aerolink Uganda Ltd",
+    "COUNTRY": "UG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AG",
+    "CARR_NAME": "Aruba Airlines",
+    "COUNTRY": "AW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DZ",
+    "CARR_NAME": "Donghai Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HF",
+    "CARR_NAME": "Air Cote d'Ivoire",
+    "COUNTRY": "CI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "I4",
+    "CARR_NAME": "Scott Air LLC",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JR",
+    "CARR_NAME": "Joy Air",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KP",
+    "CARR_NAME": "ASKY Airlines",
+    "COUNTRY": "TG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MR",
+    "CARR_NAME": "Hunnu Air",
+    "COUNTRY": "MN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OB",
+    "CARR_NAME": "Boliviana de Aviacion - BoA",
+    "COUNTRY": "BO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PM",
+    "CARR_NAME": "Canaryfly",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QG",
+    "CARR_NAME": "Citilink",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "QW",
+    "CARR_NAME": "Qingdao Airline Co, Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QY",
+    "CARR_NAME": "European Air Transport Leipzig GmbH",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IQ",
+    "CARR_NAME": "Qazaq Air",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S6",
+    "CARR_NAME": "Sunrise Airways",
+    "COUNTRY": "HT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SL",
+    "CARR_NAME": "Thai Lion Air",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "SM",
+    "CARR_NAME": "Air Cairo",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UW",
+    "CARR_NAME": "Uni-top Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VQ",
+    "CARR_NAME": "NovoAir",
+    "COUNTRY": "BD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Y5",
+    "CARR_NAME": "Golden Myanmar Airlines",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YE",
+    "CARR_NAME": "Yanair",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YW",
+    "CARR_NAME": "Air Nostrum",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZA",
+    "CARR_NAME": "Sky Angkor Airlines",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZD",
+    "CARR_NAME": "EWA Air",
+    "COUNTRY": "YT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZM",
+    "CARR_NAME": "Air Manas",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "73S",
+    "CARR_NAME": "Aerologic GmbH",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KJ",
+    "CARR_NAME": "Air Incheon",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "B0",
+    "CARR_NAME": "La Compagnie",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PI",
+    "CARR_NAME": "Polar Airlines Ltd",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6Y",
+    "CARR_NAME": "SMARTLYNX AIRLINES Ltd",
+    "COUNTRY": "LV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N8",
+    "CARR_NAME": "National Airlines",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OC",
+    "CARR_NAME": "Oriental Air Bridge Co., Ltd. (ORC)",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WY",
+    "CARR_NAME": "Oman Air",
+    "COUNTRY": "OM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7V",
+    "CARR_NAME": "Federal Airlines (Pty) Ltd",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Z2",
+    "CARR_NAME": "Philippines AirAsia Inc.",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "K6",
+    "CARR_NAME": "Cambodia Angkor Air",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G3",
+    "CARR_NAME": "GOL Linhas Aereas S.A.",
+    "COUNTRY": "BR",
+    "STATE": "RJ",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "C3",
+    "CARR_NAME": "Trade Air Ltd",
+    "COUNTRY": "HR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FH",
+    "CARR_NAME": "Freebird Airlines",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "U3",
+    "CARR_NAME": "Sky Gates Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UQ",
+    "CARR_NAME": "Urumqi Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7K3",
+    "CARR_NAME": "SAC (K) Limited",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HP",
+    "CARR_NAME": "Amapola Flyg AB",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SF",
+    "CARR_NAME": "Tassili Airlines",
+    "COUNTRY": "DZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JC",
+    "CARR_NAME": "Japan Air Commuter",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "74W",
+    "CARR_NAME": "Allied Air Cargo",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E8",
+    "CARR_NAME": "Tayaran Jet",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FU",
+    "CARR_NAME": "Fuzhou Airlines Co., Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5B",
+    "CARR_NAME": "Bassaka Air",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VH",
+    "CARR_NAME": "Viva Air Colombia",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "RV",
+    "CARR_NAME": "Air Canada Rouge",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AJ",
+    "CARR_NAME": "Aztec Airways",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VC",
+    "CARR_NAME": "ViaAir",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "GK",
+    "CARR_NAME": "Jetstar Japan",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "OD",
+    "CARR_NAME": "Malindo Airways",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GP",
+    "CARR_NAME": "APG Airlines",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DK",
+    "CARR_NAME": "Sunclass Airlines",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2D",
+    "CARR_NAME": "Eastern Airlines, LLC",
+    "COUNTRY": "US",
+    "STATE": "NC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ST",
+    "CARR_NAME": "Air Thanlwin",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3R",
+    "CARR_NAME": "Divi Divi Air",
+    "COUNTRY": "CW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GG",
+    "CARR_NAME": "Skylease",
+    "COUNTRY": "US",
+    "STATE": "NC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CS",
+    "CARR_NAME": "Comlux Aruba NV",
+    "COUNTRY": "AW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WR",
+    "CARR_NAME": "Westjet Encore",
+    "COUNTRY": "CA",
+    "STATE": "AB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V5",
+    "CARR_NAME": "Aerovias DAP S.A.",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D8",
+    "CARR_NAME": "Norwegian",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "NR",
+    "CARR_NAME": "Manta Air",
+    "COUNTRY": "MV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8B",
+    "CARR_NAME": "TransNusa",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AL",
+    "CARR_NAME": "Malta Air",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "VZ",
+    "CARR_NAME": "Thai Vietjet Air",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "UE",
+    "CARR_NAME": "BizAir op by Ultimate JetCharters LLC",
+    "COUNTRY": "US",
+    "STATE": "IL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YL",
+    "CARR_NAME": "Libyan Wings",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "W9",
+    "CARR_NAME": "Wizz Air UK",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "FK",
+    "CARR_NAME": "KF Cargo",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6Q",
+    "CARR_NAME": "Cham Wings Airlines",
+    "COUNTRY": "SY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8J",
+    "CARR_NAME": "Ecojet",
+    "COUNTRY": "BO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3W",
+    "CARR_NAME": "Malawian Airlines",
+    "COUNTRY": "MW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4B",
+    "CARR_NAME": "Boutique Air",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6R",
+    "CARR_NAME": "ALROSA Air Company",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7H",
+    "CARR_NAME": "Corvus Airlines",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7Y",
+    "CARR_NAME": "Mann Yadanarpon Airlines",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DP",
+    "CARR_NAME": "Pobeda",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "DR",
+    "CARR_NAME": "Ruili Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EL",
+    "CARR_NAME": "Ellinair S.A.",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GM",
+    "CARR_NAME": "Chair Airlines",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GX",
+    "CARR_NAME": "Guangxi Beibu Gulf Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ID",
+    "CARR_NAME": "Batik Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IJ",
+    "CARR_NAME": "Spring Airlines Japan",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "U4",
+    "CARR_NAME": "Buddha Air",
+    "COUNTRY": "NP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZL",
+    "CARR_NAME": "Regional Express",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5U",
+    "CARR_NAME": "TAG Airlines (T A Guatemaltecos)",
+    "COUNTRY": "GT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PQ",
+    "CARR_NAME": "SKYUP AIRLINES",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AQ",
+    "CARR_NAME": "9 Air",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CQ",
+    "CARR_NAME": "Coastal Aviation",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NL",
+    "CARR_NAME": "Amelia International",
+    "COUNTRY": "SI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "I5",
+    "CARR_NAME": "AirAsia India",
+    "COUNTRY": "IN",
+    "STATE": "KA",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "JU",
+    "CARR_NAME": "Air Serbia",
+    "COUNTRY": "RS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M8",
+    "CARR_NAME": "Magnum.Air, Inc dba Skyjet",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QC",
+    "CARR_NAME": "Camair-Co",
+    "COUNTRY": "CM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QU",
+    "CARR_NAME": "Azur Air Ukraine",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XJ",
+    "CARR_NAME": "Thai Air Asia X",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "I2",
+    "CARR_NAME": "Iberia Express",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DO",
+    "CARR_NAME": "Sky High Aviation Services",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7Q",
+    "CARR_NAME": "Elite Airways",
+    "COUNTRY": "US",
+    "STATE": "ME",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2Y",
+    "CARR_NAME": "MY Indo Airlines, PT",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N5",
+    "CARR_NAME": "Nolinor Aviation",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WZ",
+    "CARR_NAME": "Red Wings Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RF",
+    "CARR_NAME": "Aero k Airlines",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M4",
+    "CARR_NAME": "Poste Air Cargo",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LK",
+    "CARR_NAME": "Lao Skyway Comm Air Trans & charter",
+    "COUNTRY": "LA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FT",
+    "CARR_NAME": "FlyEgypt",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "ZP",
+    "CARR_NAME": "Paranair",
+    "COUNTRY": "PY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "J7",
+    "CARR_NAME": "AFRIJET",
+    "COUNTRY": "GA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "H9",
+    "CARR_NAME": "Himalaya Airlines",
+    "COUNTRY": "NP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GY",
+    "CARR_NAME": "Colorful Guizhou Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PU",
+    "CARR_NAME": "Plus Ultra Lineas Aereas S. A.",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2B",
+    "CARR_NAME": "Albawings",
+    "COUNTRY": "AL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8Y",
+    "CARR_NAME": "Astro Air Int dba Pan Pacific Airlines",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2C",
+    "CARR_NAME": "SNCF",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EO",
+    "CARR_NAME": "Pegas Fly",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9L",
+    "CARR_NAME": "AirTanker Services Limited",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BZ",
+    "CARR_NAME": "Blue Bird Airways",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E2",
+    "CARR_NAME": "Eurowings Europe",
+    "COUNTRY": "AT",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "VE",
+    "CARR_NAME": "Easyfly S. A.",
+    "COUNTRY": "CO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N6",
+    "CARR_NAME": "TCA Airlines",
+    "COUNTRY": "GE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5F",
+    "CARR_NAME": "Fly One",
+    "COUNTRY": "MD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MZ",
+    "CARR_NAME": "Amakusa Airlines",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RS",
+    "CARR_NAME": "Air Seoul, Inc",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "9X",
+    "CARR_NAME": "Southern Airways Express",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YG",
+    "CARR_NAME": "YTO Cargo Airlines Co. Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OW",
+    "CARR_NAME": "Skyward Express",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QN",
+    "CARR_NAME": "Skytrans Airlines",
+    "COUNTRY": "AU",
+    "STATE": "QL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "G0",
+    "CARR_NAME": "Albatros Airlines",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "II",
+    "CARR_NAME": "IBC Airways",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T2",
+    "CARR_NAME": "MCS Aerocarga de Mexico",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6W",
+    "CARR_NAME": "FlyBosnia",
+    "COUNTRY": "BA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BM",
+    "CARR_NAME": "Bakhtar Afghan Airline",
+    "COUNTRY": "AF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QE",
+    "CARR_NAME": "Express Freighters Australia",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7N",
+    "CARR_NAME": "MetroJets",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8R",
+    "CARR_NAME": "Regourd Aviation (dba AMELIA)",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WP",
+    "CARR_NAME": "Air Antwerp",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YR",
+    "CARR_NAME": "Scenic Airlines",
+    "COUNTRY": "US",
+    "STATE": "NV",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "R2",
+    "CARR_NAME": "Transair Senegal",
+    "COUNTRY": "SN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UY",
+    "CARR_NAME": "Sky Pearl",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BF",
+    "CARR_NAME": "French Bee",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "2U",
+    "CARR_NAME": "Sun d'Or International Airlines",
+    "COUNTRY": "IL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SO",
+    "CARR_NAME": "Syphax Airlines",
+    "COUNTRY": "TN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8D",
+    "CARR_NAME": "FITS Aviation (Pvt) Ltd",
+    "COUNTRY": "LK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8W",
+    "CARR_NAME": "Fly Always N.V.",
+    "COUNTRY": "SR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N3",
+    "CARR_NAME": "Vuela El Salvador",
+    "COUNTRY": "SV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DH",
+    "CARR_NAME": "Norwegian Air Norway AS",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AB",
+    "CARR_NAME": "KAP.KG Aircompany LLC",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EE",
+    "CARR_NAME": "Regional Jet",
+    "COUNTRY": "EE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "A6",
+    "CARR_NAME": "Air Travel Co. Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DI",
+    "CARR_NAME": "Norwegian Air UK ltd",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "KW",
+    "CARR_NAME": "LLC Air Company AeroStan",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F5",
+    "CARR_NAME": "Aerotranscargo",
+    "COUNTRY": "MD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OV",
+    "CARR_NAME": "SalamAir",
+    "COUNTRY": "OM",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "GO",
+    "CARR_NAME": "ULS Airlines Cargo",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IF",
+    "CARR_NAME": "Fly Baghdad Airlines",
+    "COUNTRY": "IQ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "K9",
+    "CARR_NAME": "Kalitta Charters, L.L.C.",
+    "COUNTRY": "US",
+    "STATE": "MI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KG",
+    "CARR_NAME": "Key Lime Air dba Denver Air Connection",
+    "COUNTRY": "US",
+    "STATE": "CO",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "O7",
+    "CARR_NAME": "Omni-Blu",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N4",
+    "CARR_NAME": "Nord Wind",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "S5",
+    "CARR_NAME": "Abakan Air LLC",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZG",
+    "CARR_NAME": "ZIPAIR Tokyo Inc.",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "P3",
+    "CARR_NAME": "Cargologicair",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RL",
+    "CARR_NAME": "Royal Flight Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T4",
+    "CARR_NAME": "Rhoades Aviation Inc.",
+    "COUNTRY": "US",
+    "STATE": "IN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "U7",
+    "CARR_NAME": "Uniworld Air Cargo Corp.",
+    "COUNTRY": "PA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UV",
+    "CARR_NAME": "Universal Airways, Inc.",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "V2",
+    "CARR_NAME": "Avialeasing Aviation Co",
+    "COUNTRY": "UZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VM",
+    "CARR_NAME": "Max Air",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Y2",
+    "CARR_NAME": "Air Century",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XM",
+    "CARR_NAME": "Zimex Aviation",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7A",
+    "CARR_NAME": "Express Air Cargo",
+    "COUNTRY": "TN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OF",
+    "CARR_NAME": "Overland Airways",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RM",
+    "CARR_NAME": "Aircompany Armenia",
+    "COUNTRY": "AM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GI",
+    "CARR_NAME": "Guangdong Longhao Airlines Co., Ltd",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ER",
+    "CARR_NAME": "Serene Air",
+    "COUNTRY": "PK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CY",
+    "CARR_NAME": "Cyprus Airways",
+    "COUNTRY": "CY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MV",
+    "CARR_NAME": "Air Mediterranean",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EF",
+    "CARR_NAME": "Aerolinea Del Caribe - Peru S.A.C.",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3L",
+    "CARR_NAME": "Air Arabia Abu Dhabi",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "4J",
+    "CARR_NAME": "JetAir Caribbean",
+    "COUNTRY": "CW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "3B",
+    "CARR_NAME": "Transportes Interilhas de Cabo Verde",
+    "COUNTRY": "CV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q6",
+    "CARR_NAME": "Volaris Costa Rica",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AN",
+    "CARR_NAME": "Advanced Air, LLC",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T9",
+    "CARR_NAME": "Turpial Airlines",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "N2",
+    "CARR_NAME": "Aero Contractors Company of Nigeria",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OJ",
+    "CARR_NAME": "NyxAir OU",
+    "COUNTRY": "EE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LQ",
+    "CARR_NAME": "Lanmei Airlines",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "JO",
+    "CARR_NAME": "Jonika Airlines",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WL",
+    "CARR_NAME": "World Atlantic Airlines",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M3",
+    "CARR_NAME": "LATAM Cargo Brasil",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F3",
+    "CARR_NAME": "flyadeal",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "BH",
+    "CARR_NAME": "Bismillah Airlines",
+    "COUNTRY": "BD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GE",
+    "CARR_NAME": "Global Aviation Operations",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SR",
+    "CARR_NAME": "SundAir",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LB",
+    "CARR_NAME": "Bul Air Ltd.",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7M",
+    "CARR_NAME": "MAP Linhas Aereas",
+    "COUNTRY": "BR",
+    "STATE": "AM",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WO",
+    "CARR_NAME": "Swoop",
+    "COUNTRY": "CA",
+    "STATE": "AB",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "WV",
+    "CARR_NAME": "Westair Aviation",
+    "COUNTRY": "NA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "US",
+    "CARR_NAME": "Puerto Rico International Airlines",
+    "COUNTRY": "PR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WD",
+    "CARR_NAME": "Modern Transtport Aereo de Caarga SA",
+    "COUNTRY": "BR",
+    "STATE": "AC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DN",
+    "CARR_NAME": "Norwegian Air Argentina",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "C8",
+    "CARR_NAME": "Cronosair",
+    "COUNTRY": "GQ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MJ",
+    "CARR_NAME": "Myway Airlines Co.,LTD",
+    "COUNTRY": "GE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NG",
+    "CARR_NAME": "NOVAIR Limited Liability Company",
+    "COUNTRY": "AM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q4",
+    "CARR_NAME": "Euroairlines, S.L.",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KF",
+    "CARR_NAME": "Air Belgium",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MG",
+    "CARR_NAME": "EZNIS AIRWAYS LLC",
+    "COUNTRY": "MN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EC",
+    "CARR_NAME": "easyJet Europe Airline",
+    "COUNTRY": "AT",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "7ZF",
+    "CARR_NAME": "Safari Express Cargo",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IH",
+    "CARR_NAME": "Southern Sky Airlines JSC",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UF",
+    "CARR_NAME": "Petroleum Air Services",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QH",
+    "CARR_NAME": "Bamboo Airways",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VU",
+    "CARR_NAME": "Vietravel Airlines",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4F",
+    "CARR_NAME": "Freedom Airline Express",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JM",
+    "CARR_NAME": "Jambojet",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "4A",
+    "CARR_NAME": "ATSA Airlines",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6A",
+    "CARR_NAME": "Armenia Airways Aircompany CJSC",
+    "COUNTRY": "AM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "R9",
+    "CARR_NAME": "Trans Executive Airlines of Hawaii",
+    "COUNTRY": "US",
+    "STATE": "HI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "Q8",
+    "CARR_NAME": "Trans Air Congo",
+    "COUNTRY": "CG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "1I",
+    "CARR_NAME": "NetJets Aviation, Inc.",
+    "COUNTRY": "US",
+    "STATE": "OH",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E4",
+    "CARR_NAME": "Enter Air Spolka z.o.o.",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IS",
+    "CARR_NAME": "Sepehran Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XF",
+    "CARR_NAME": "Mongolian Airways Cargo",
+    "COUNTRY": "MN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DQ",
+    "CARR_NAME": "Alexandria Airlines",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VO",
+    "CARR_NAME": "Voyage Air",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PH",
+    "CARR_NAME": "Pionair Australia Pty Ltd",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "T8",
+    "CARR_NAME": "CA Terra Avia SRL",
+    "COUNTRY": "MD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DW",
+    "CARR_NAME": "Great Dane Airlines",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2T",
+    "CARR_NAME": "Turbo Megha Airways",
+    "COUNTRY": "IN",
+    "STATE": "TG",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "L9",
+    "CARR_NAME": "Lumiwings",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UD",
+    "CARR_NAME": "UR Airlines",
+    "COUNTRY": "IQ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "F6",
+    "CARR_NAME": "Fly2Sky",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7Z",
+    "CARR_NAME": "EZAir",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QI",
+    "CARR_NAME": "Ibom Air",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SX",
+    "CARR_NAME": "flyGTA Airlines",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BE",
+    "CARR_NAME": "Flybe",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4H",
+    "CARR_NAME": "Hi Air",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UR",
+    "CARR_NAME": "Uganda Airlines",
+    "COUNTRY": "UG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZO",
+    "CARR_NAME": "Colorful Yunnan General Aviation",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "F7",
+    "CARR_NAME": "LTD I Fly",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "7N7",
+    "CARR_NAME": "My Jet Xpress",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "E3",
+    "CARR_NAME": "Ego Airways S.p.A",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WJ",
+    "CARR_NAME": "Jetsmart Airlines S.A.",
+    "COUNTRY": "AR",
+    "STATE": "SE",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LC",
+    "CARR_NAME": "Skyway CR",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OT",
+    "CARR_NAME": "Tchadia Airlines",
+    "COUNTRY": "TD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5Q",
+    "CARR_NAME": "Holiday Europe",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "JX",
+    "CARR_NAME": "STARLUX Airlines",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6G",
+    "CARR_NAME": "Go2Sky",
+    "COUNTRY": "SK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "0A",
+    "CARR_NAME": "Asta Linhas Aereas Ltda",
+    "COUNTRY": "BR",
+    "STATE": "MT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RW",
+    "CARR_NAME": "Royal Air Charter Services Inc",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D4",
+    "CARR_NAME": "Airline GEO SKY LLC",
+    "COUNTRY": "GE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4V",
+    "CARR_NAME": "Fly Gangwon",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "A2",
+    "CARR_NAME": "Anima Wings Aviation",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6M",
+    "CARR_NAME": "Maximus Airlines",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KD",
+    "CARR_NAME": "Western Global Airlines LLC",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VF",
+    "CARR_NAME": "Fly Armenia Airways",
+    "COUNTRY": "AM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IG",
+    "CARR_NAME": "Air Italy S.p.A.",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ML",
+    "CARR_NAME": "Sky Mali",
+    "COUNTRY": "ML",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "R8",
+    "CARR_NAME": "Puer General Aviation",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YJ",
+    "CARR_NAME": "Asian Express Aviation",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LW",
+    "CARR_NAME": "Lauda Europe",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IV",
+    "CARR_NAME": "GP Aviation Ltd",
+    "COUNTRY": "BG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SB",
+    "CARR_NAME": "Air Caledonie International",
+    "COUNTRY": "NC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "5W",
+    "CARR_NAME": "Wizz Air Abu Dhabi",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "6T",
+    "CARR_NAME": "Longtail Aviation International",
+    "COUNTRY": "BM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NB",
+    "CARR_NAME": "Berniq Airways",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "D6",
+    "CARR_NAME": "Servicios Aereos GECA S.A.",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RT",
+    "CARR_NAME": "UVT aero",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OP",
+    "CARR_NAME": "PassionAir",
+    "COUNTRY": "GH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "9S",
+    "CARR_NAME": "Southern Air Inc.",
+    "COUNTRY": "US",
+    "STATE": "KY",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CC",
+    "CARR_NAME": "CM Airlines",
+    "COUNTRY": "HN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "2W",
+    "CARR_NAME": "World 2 Fly, S.L",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "8I",
+    "CARR_NAME": "ITA",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "R5",
+    "CARR_NAME": "Jordan Aviation",
+    "COUNTRY": "JO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "M2",
+    "CARR_NAME": "MHS Aviation",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "4Y",
+    "CARR_NAME": "EW Discover GmbH",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LI",
+    "CARR_NAME": "ETF Airways d.o.o",
+    "COUNTRY": "HR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GH",
+    "CARR_NAME": "Galistair Trading Ltd",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BN",
+    "CARR_NAME": "Luxwing Ltd",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HN",
+    "CARR_NAME": "UAB Heston Airlines JSC Heston Airl",
+    "COUNTRY": "LT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WW",
+    "CARR_NAME": "M Jets International",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "YP",
+    "CARR_NAME": "Air Premia Inc.",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HH",
+    "CARR_NAME": "LLC Qanot Sha",
+    "COUNTRY": "UZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BIC",
+    "CARR_NAME": "Alphaland Aviation, Inc",
+    "COUNTRY": "PH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TMW",
+    "CARR_NAME": "Trans Maldivian",
+    "COUNTRY": "MV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KAB",
+    "CARR_NAME": "Air Pohang",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LLC",
+    "CARR_NAME": "Small Planet Airlines",
+    "COUNTRY": "LT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RIH",
+    "CARR_NAME": "Rahila Air",
+    "COUNTRY": "LY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TAK",
+    "CARR_NAME": "Transfrican Air Ltd.",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FGG",
+    "CARR_NAME": "flyglobal charter Sdn. Bhd.",
+    "COUNTRY": "MY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ALC",
+    "CARR_NAME": "American Linehaul Corporation",
+    "COUNTRY": "US",
+    "STATE": "NJ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BMR",
+    "CARR_NAME": "BMI Regional",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BSK",
+    "CARR_NAME": "Miami Air",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CNK",
+    "CARR_NAME": "Sunwest Aviation",
+    "COUNTRY": "CA",
+    "STATE": "AB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TUY",
+    "CARR_NAME": "Linea Turistica Aerotuy",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FAT",
+    "CARR_NAME": "Farnair Switzerland AG",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IOS",
+    "CARR_NAME": "Isles of Scilly Skybus",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LTR",
+    "CARR_NAME": "Lufttransport A/S",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LYD",
+    "CARR_NAME": "Lydd Air",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NIS",
+    "CARR_NAME": "La Costena",
+    "COUNTRY": "NI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OPN",
+    "CARR_NAME": "Air Open Sky",
+    "COUNTRY": "US",
+    "STATE": "MD",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PTI",
+    "CARR_NAME": "Privatair",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QNZ",
+    "CARR_NAME": "Jetconnect",
+    "COUNTRY": "NZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RGN",
+    "CARR_NAME": "Cygnus Air",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RHL",
+    "CARR_NAME": "Air Archipels",
+    "COUNTRY": "PF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RNX",
+    "CARR_NAME": "1time",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "RSE",
+    "CARR_NAME": "SNAS Aviation",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SOP",
+    "CARR_NAME": "Solinair",
+    "COUNTRY": "SI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SSQ",
+    "CARR_NAME": "Sunstate Airlines",
+    "COUNTRY": "AU",
+    "STATE": "QL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SXG",
+    "CARR_NAME": "Sterling Transportation, Inc.",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TAH",
+    "CARR_NAME": "Air Moorea",
+    "COUNTRY": "PF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TOM",
+    "CARR_NAME": "TUI Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TRD",
+    "CARR_NAME": "Trans Island Air",
+    "COUNTRY": "BB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TTL",
+    "CARR_NAME": "Total Linhas Aereas",
+    "COUNTRY": "BR",
+    "STATE": "MG",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VAS",
+    "CARR_NAME": "Atran",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WEW",
+    "CARR_NAME": "Express Air",
+    "COUNTRY": "CA",
+    "STATE": "SK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WIG",
+    "CARR_NAME": "Wiggins Airways",
+    "COUNTRY": "US",
+    "STATE": "MA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GBJ",
+    "CARR_NAME": "Wisdom Airways",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AGV",
+    "CARR_NAME": "Air Glaciers",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AAF",
+    "CARR_NAME": "Aigle Azur",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ABV",
+    "CARR_NAME": "Antrak Air",
+    "COUNTRY": "GH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AIJ",
+    "CARR_NAME": "Interjet",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AUT",
+    "CARR_NAME": "Austral",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BHP",
+    "CARR_NAME": "Belair Airlines",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BLF",
+    "CARR_NAME": "Blue1",
+    "COUNTRY": "FI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CHQ",
+    "CARR_NAME": "Chautauqua Airlines, Inc.",
+    "COUNTRY": "US",
+    "STATE": "IN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CIM",
+    "CARR_NAME": "Cimber A/S",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CJC",
+    "CARR_NAME": "Colgan Air",
+    "COUNTRY": "US",
+    "STATE": "VA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EGU",
+    "CARR_NAME": "Eagle Air",
+    "COUNTRY": "UG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EXY",
+    "CARR_NAME": "South African Express Airways",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FDM",
+    "CARR_NAME": "Freedom Airlines, Inc",
+    "COUNTRY": "US",
+    "STATE": "AZ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FEA",
+    "CARR_NAME": "Far Eastern Air Transport",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FTA",
+    "CARR_NAME": "Frontier Flying Service",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GLA",
+    "CARR_NAME": "Great Lakes Airlines",
+    "COUNTRY": "US",
+    "STATE": "MN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HDA",
+    "CARR_NAME": "Cathay Dragon",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "INC",
+    "CARR_NAME": "Insel Air",
+    "COUNTRY": "CW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ISV",
+    "CARR_NAME": "Islena Airlines",
+    "COUNTRY": "HN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JAB",
+    "CARR_NAME": "Air Bagan",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JAI",
+    "CARR_NAME": "Jet Airways (India) Ltd",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JBA",
+    "CARR_NAME": "Helijet International Inc",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KBA",
+    "CARR_NAME": "Kenn Borek Air",
+    "COUNTRY": "CA",
+    "STATE": "AB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LAL",
+    "CARR_NAME": "Air Labrador",
+    "COUNTRY": "CA",
+    "STATE": "NL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LGW",
+    "CARR_NAME": "Luftfahrt Gesellschaft Walter",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LIA",
+    "CARR_NAME": "LIAT (1974)",
+    "COUNTRY": "AG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LID",
+    "CARR_NAME": "Alidaunia",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LYN",
+    "CARR_NAME": "Air Kyrgyzstan",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MGX",
+    "CARR_NAME": "Montenegro Airlines",
+    "COUNTRY": "ME",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MNA",
+    "CARR_NAME": "Merpati Nusantara Airlines",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CWM",
+    "CARR_NAME": "Air Marshall Islands",
+    "COUNTRY": "MH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NMB",
+    "CARR_NAME": "Air Namibia",
+    "COUNTRY": "NA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NRR",
+    "CARR_NAME": "NatureAir",
+    "COUNTRY": "CR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OCA",
+    "CARR_NAME": "Aserca Airlines",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OEA",
+    "CARR_NAME": "Orient Thai Airlines",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ONE",
+    "CARR_NAME": "Avianca Brasil",
+    "COUNTRY": "BR",
+    "STATE": "SP",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OZW",
+    "CARR_NAME": "Skywest Airlines",
+    "COUNTRY": "AU",
+    "STATE": "WA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NLA",
+    "CARR_NAME": "PenAir",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RSI",
+    "CARR_NAME": "Air Sunshine",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SAI",
+    "CARR_NAME": "Shaheen Air International",
+    "COUNTRY": "PK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SFW",
+    "CARR_NAME": "Safi Airways",
+    "COUNTRY": "AF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JLL",
+    "CARR_NAME": "JetKonnect",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "SNB",
+    "CARR_NAME": "Sterling",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SOV",
+    "CARR_NAME": "Saratov Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FQA",
+    "CARR_NAME": "Quikjet Cargo Airlines",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TAE",
+    "CARR_NAME": "TAME Linea Aerea del Ecuador",
+    "COUNTRY": "EC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TCF",
+    "CARR_NAME": "Shuttle America",
+    "COUNTRY": "US",
+    "STATE": "CT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TNA",
+    "CARR_NAME": "Transasia Airways",
+    "COUNTRY": "TW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TPU",
+    "CARR_NAME": "Avianca Peru S.A.",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TRS",
+    "CARR_NAME": "AirTran Airways",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "UKM",
+    "CARR_NAME": "Ukrainian-Mediterranean Airlines",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VRD",
+    "CARR_NAME": "Virgin America",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "WSG",
+    "CARR_NAME": "Wasaya Airways LP",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FXX",
+    "CARR_NAME": "Felix Airways",
+    "COUNTRY": "YE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JTG",
+    "CARR_NAME": "JetTime",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OLY",
+    "CARR_NAME": "Olympus Airways",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FNA",
+    "CARR_NAME": "Norlandair",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GHN",
+    "CARR_NAME": "Air Ghana",
+    "COUNTRY": "GH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IIA",
+    "CARR_NAME": "Inter Iles Air",
+    "COUNTRY": "KM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AJA",
+    "CARR_NAME": "Afghan Jet International",
+    "COUNTRY": "AF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AKN",
+    "CARR_NAME": "Alkan Air",
+    "COUNTRY": "CA",
+    "STATE": "YT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BOS",
+    "CARR_NAME": "LEVEL operated by OpenSkies (LV)",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HGB",
+    "CARR_NAME": "Greater Bay Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ERF",
+    "CARR_NAME": "Erofey Limited Liability Company",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KRU",
+    "CARR_NAME": "Karun Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GMT",
+    "CARR_NAME": "Magnicharters",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LLX",
+    "CARR_NAME": "Small Planet Airlines GmbH",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AFD",
+    "CARR_NAME": "Unity Air (Ghana)",
+    "COUNTRY": "GH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QLK",
+    "CARR_NAME": "QANTASLINK",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FYN",
+    "CARR_NAME": "PT. Flyindo Aviasi Nusantara",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ABT",
+    "CARR_NAME": "Air Taxi Benin",
+    "COUNTRY": "BJ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DKN",
+    "CARR_NAME": "Air Deccan",
+    "COUNTRY": "IN",
+    "STATE": "KA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HOG",
+    "CARR_NAME": "Mahogany Air",
+    "COUNTRY": "ZM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FVJ",
+    "CARR_NAME": "ValueJet",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LBQ",
+    "CARR_NAME": "Quest Air",
+    "COUNTRY": "US",
+    "STATE": "VA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GJT",
+    "CARR_NAME": "GetJet Airlines",
+    "COUNTRY": "LT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ALV",
+    "CARR_NAME": "Aeropostal Alas de Venezuela S.A.",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MDO",
+    "CARR_NAME": "Mediterranean Aviation Company Ltd",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AYS",
+    "CARR_NAME": "Madagasikara Airways",
+    "COUNTRY": "MG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PSW",
+    "CARR_NAME": "Pskovavia Airlines Company",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DTO",
+    "CARR_NAME": "AERODESIERTO SA",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VRH",
+    "CARR_NAME": "Varesh Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NWC",
+    "CARR_NAME": "Aircompany North-West LTD",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QJE",
+    "CARR_NAME": "Cobham Aviation Services Australia",
+    "COUNTRY": "AU",
+    "STATE": "SA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NWA",
+    "CARR_NAME": "Niger Airways SA",
+    "COUNTRY": "NE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ZOM",
+    "CARR_NAME": "Zoom Air",
+    "COUNTRY": "IN",
+    "STATE": "DL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WAN",
+    "CARR_NAME": "Wataniya Airways",
+    "COUNTRY": "KW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RSB",
+    "CARR_NAME": "Rubystar Airways",
+    "COUNTRY": "BY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AMB",
+    "CARR_NAME": "Deutsche Rettungsflugwacht",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CRN",
+    "CARR_NAME": "Aerocaribbean",
+    "COUNTRY": "CU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MYI",
+    "CARR_NAME": "Mayair, S.A. de C.V.",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NYS",
+    "CARR_NAME": "Ulendo Airlink",
+    "COUNTRY": "MW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OLS",
+    "CARR_NAME": "SOL S.A Lineas Aereas",
+    "COUNTRY": "AR",
+    "STATE": "SF",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BFL",
+    "CARR_NAME": "Buffalo Airways",
+    "COUNTRY": "CA",
+    "STATE": "NT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ATM",
+    "CARR_NAME": "Airlines of Tasmania",
+    "COUNTRY": "AU",
+    "STATE": "TS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LUR",
+    "CARR_NAME": "Atlantis European Airways",
+    "COUNTRY": "AM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ROM",
+    "CARR_NAME": "Encompass Aviation, LLC",
+    "COUNTRY": "US",
+    "STATE": "NJ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NOV",
+    "CARR_NAME": "Nova Airways",
+    "COUNTRY": "SD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RFJ",
+    "CARR_NAME": "Royal Falcon",
+    "COUNTRY": "JO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TBN",
+    "CARR_NAME": "Taban Air",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WOW",
+    "CARR_NAME": "WOW Air",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "ESJ",
+    "CARR_NAME": "Eastern SkyJets",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DCT",
+    "CARR_NAME": "Directflight",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AUZ",
+    "CARR_NAME": "Amaszonas Uruguay",
+    "COUNTRY": "UY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GMI",
+    "CARR_NAME": "Germania",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WSF",
+    "CARR_NAME": "Westair Benin",
+    "COUNTRY": "BJ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TBZ",
+    "CARR_NAME": "ATA Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OTT",
+    "CARR_NAME": "OTT Airlines",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EAK",
+    "CARR_NAME": "Euro-Asia Air",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HBR",
+    "CARR_NAME": "Hebridean Air Services",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IZG",
+    "CARR_NAME": "Zagros Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AMV",
+    "CARR_NAME": "AMC Airlines",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PRO",
+    "CARR_NAME": "Propair",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TWC",
+    "CARR_NAME": "Canadian Airways Congo",
+    "COUNTRY": "CG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BRP",
+    "CARR_NAME": "Aerobratsk",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AZI",
+    "CARR_NAME": "Astra Airlines",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KND",
+    "CARR_NAME": "Kan Air",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NAL",
+    "CARR_NAME": "Northway Aviation Ltd",
+    "COUNTRY": "CA",
+    "STATE": "MB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CND",
+    "CARR_NAME": "Corendon DUTCH Airlines",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PEA",
+    "CARR_NAME": "Pan Europeenne Air Service",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PNP",
+    "CARR_NAME": "Pineapple Air",
+    "COUNTRY": "BS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EHN",
+    "CARR_NAME": "East Horizon Airlines",
+    "COUNTRY": "AF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VUR",
+    "CARR_NAME": "VIP S.A.",
+    "COUNTRY": "EC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AWM",
+    "CARR_NAME": "Asian Wings Airways",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VIT",
+    "CARR_NAME": "PT Aviastar Mandiri",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CPN",
+    "CARR_NAME": "Caspian Airlines",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BEK",
+    "CARR_NAME": "Bek Air",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AWN",
+    "CARR_NAME": "Air Niamey",
+    "COUNTRY": "NE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OAE",
+    "CARR_NAME": "Omni Air International",
+    "COUNTRY": "US",
+    "STATE": "OK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FRN",
+    "CARR_NAME": "First Nation Airways",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RER",
+    "CARR_NAME": "Aeroregional",
+    "COUNTRY": "EC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AMY",
+    "CARR_NAME": "Air Mandalay Ltd",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RLT",
+    "CARR_NAME": "REAL Tonga",
+    "COUNTRY": "TO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "APP",
+    "CARR_NAME": "Aeroperlas",
+    "COUNTRY": "PA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CCO",
+    "CARR_NAME": "China Air Cargo",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PVG",
+    "CARR_NAME": "Privilege",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VGO",
+    "CARR_NAME": "NewGen Airways",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RVP",
+    "CARR_NAME": "Sevenair (Portugal)",
+    "COUNTRY": "PT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TWI",
+    "CARR_NAME": "Tailwind Hava Yollari A.S",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PFY",
+    "CARR_NAME": "Pel-Air",
+    "COUNTRY": "AU",
+    "STATE": "NS",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SGB",
+    "CARR_NAME": "Songbird Airways, Inc.",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OTJ",
+    "CARR_NAME": "TEN AIRWAYS",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CPZ",
+    "CARR_NAME": "Compass Airlines, Inc.",
+    "COUNTRY": "US",
+    "STATE": "MN",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FJM",
+    "CARR_NAME": "Fly Jamaica",
+    "COUNTRY": "JM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SBM",
+    "CARR_NAME": "SkyBahamas",
+    "COUNTRY": "BS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SLT",
+    "CARR_NAME": "Starlight Airlines",
+    "COUNTRY": "AE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XLF",
+    "CARR_NAME": "XL Airways France",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FZW",
+    "CARR_NAME": "flyafrica - Zimbabwe",
+    "COUNTRY": "ZW",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "UJX",
+    "CARR_NAME": "AtlasGlobal UA",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NLU",
+    "CARR_NAME": "Insel Air Aruba",
+    "COUNTRY": "AW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MEG",
+    "CARR_NAME": "Mega Global Air Services (Maldives)",
+    "COUNTRY": "MV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PVN",
+    "CARR_NAME": "Peruvian Airlines",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RGE",
+    "CARR_NAME": "Regent Airways",
+    "COUNTRY": "BD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SXD",
+    "CARR_NAME": "SunExpress Deutschland GmbH",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "ESR",
+    "CARR_NAME": "Eastar Jet",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AWC",
+    "CARR_NAME": "Titan Airways",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AAQ",
+    "CARR_NAME": "Asia Atlantic Airlines",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KKK",
+    "CARR_NAME": "AtlasGlobal",
+    "COUNTRY": "TR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KIS",
+    "CARR_NAME": "Kish Air",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SQM",
+    "CARR_NAME": "Siam Air Transport Company Limited",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MRJ",
+    "CARR_NAME": "Meraj Air",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NEA",
+    "CARR_NAME": "New England Airlines Inc",
+    "COUNTRY": "US",
+    "STATE": "RI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PPL",
+    "CARR_NAME": "Air Pegasus Pvt. Ltd.",
+    "COUNTRY": "IN",
+    "STATE": "KA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IDX",
+    "CARR_NAME": "Indonesia Airasia X",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "JAA",
+    "CARR_NAME": "Jet Asia Airways",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HHK",
+    "CARR_NAME": "Sky Shuttle",
+    "COUNTRY": "HK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FMI",
+    "CARR_NAME": "FMI Air",
+    "COUNTRY": "MM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NCT",
+    "CARR_NAME": "NokScoot Airlines Co Ltd",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "THU",
+    "CARR_NAME": "Thunder Airlines",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KDC",
+    "CARR_NAME": "KD Air Corporation",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NWG",
+    "CARR_NAME": "Airwing",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NTH",
+    "CARR_NAME": "Hokkaido Air System",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HTK",
+    "CARR_NAME": "Ningxia Cargo Airlines CO., LTD.",
+    "COUNTRY": "CN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GUM",
+    "CARR_NAME": "Gum Air",
+    "COUNTRY": "SR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SSJ",
+    "CARR_NAME": "Krasavia",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LLP",
+    "CARR_NAME": "Small Planet Airlines",
+    "COUNTRY": "PL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ALD",
+    "CARR_NAME": "Air Leisure",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "SNR",
+    "CARR_NAME": "Sunair Aviation",
+    "COUNTRY": "SD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PWD",
+    "CARR_NAME": "PAWA Dominicana",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SGQ",
+    "CARR_NAME": "Saudi Gulf Airlines",
+    "COUNTRY": "SA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ORG",
+    "CARR_NAME": "SUE Orenburg Region Intl Airport",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PAG",
+    "CARR_NAME": "Perimeter Aviation Ltd",
+    "COUNTRY": "CA",
+    "STATE": "MB",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BLX",
+    "CARR_NAME": "TUIfly Nordic AB",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LCB",
+    "CARR_NAME": "LC Peru",
+    "COUNTRY": "PE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LEP",
+    "CARR_NAME": "Air Costa",
+    "COUNTRY": "IN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EPR",
+    "CARR_NAME": "Express Airways",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JON",
+    "CARR_NAME": "JOON",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CTB",
+    "CARR_NAME": "Thomas Cook Airlines Balearics",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FLZ",
+    "CARR_NAME": "Flightlink Air Charters",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FDK",
+    "CARR_NAME": "Flydamas",
+    "COUNTRY": "SY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MEM",
+    "CARR_NAME": "ICAR - International Cargo Airline",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SLD",
+    "CARR_NAME": "Silver Air",
+    "COUNTRY": "CZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MFG",
+    "CARR_NAME": "Fly Mid Africa",
+    "COUNTRY": "GM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TCX",
+    "CARR_NAME": "Thomas Cook Airlines",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XLL",
+    "CARR_NAME": "Air Excel",
+    "COUNTRY": "TZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BYK",
+    "CARR_NAME": "SkyBus Airlines",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VNE",
+    "CARR_NAME": "RAVSA Venezolana",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CAT",
+    "CARR_NAME": "Copenhagen Air Taxi",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SOR",
+    "CARR_NAME": "SonAir",
+    "COUNTRY": "AO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TEZ",
+    "CARR_NAME": "Tez Jet Airlines",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CPT",
+    "CARR_NAME": "Corporate Air",
+    "COUNTRY": "US",
+    "STATE": "MT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FHM",
+    "CARR_NAME": "Freebird Airlines Europe LTD",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WLB",
+    "CARR_NAME": "Wings of Lebanon",
+    "COUNTRY": "LB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EMU",
+    "CARR_NAME": "East Asia Airlines",
+    "COUNTRY": "MO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KEA",
+    "CARR_NAME": "Korea Express Airlines",
+    "COUNTRY": "KR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KTB",
+    "CARR_NAME": "Transaviabaltika",
+    "COUNTRY": "LT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KAI",
+    "CARR_NAME": "KaiserAir",
+    "COUNTRY": "US",
+    "STATE": "CA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BGN",
+    "CARR_NAME": "Air Inter Transport Co. Ltd",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CCC",
+    "CARR_NAME": "Air Cargo Global",
+    "COUNTRY": "SK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DAV",
+    "CARR_NAME": "Dornier Aviation Nigeria",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DWI",
+    "CARR_NAME": "Dominican Wings S.A.",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XBO",
+    "CARR_NAME": "Baseops International, Inc.",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CUO",
+    "CARR_NAME": "Aerocuahonte SA de CV",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IFA",
+    "CARR_NAME": "FAI rent-a-jet Aktiengesellschaft",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DNM",
+    "CARR_NAME": "Denim Air",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FEI",
+    "CARR_NAME": "Eagle Air Iceland",
+    "COUNTRY": "IS",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BTZ",
+    "CARR_NAME": "Bristow U.S. LLC",
+    "COUNTRY": "US",
+    "STATE": "LA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "EAN",
+    "CARR_NAME": "Skypower Express Airways",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PHA",
+    "CARR_NAME": "Phoenix Air Group, Inc",
+    "COUNTRY": "US",
+    "STATE": "GA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SUV",
+    "CARR_NAME": "Sundance Air Venezuela",
+    "COUNTRY": "VE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RCT",
+    "CARR_NAME": "Skyview Airways Co dba Skyview",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FLB",
+    "CARR_NAME": "Fly Art",
+    "COUNTRY": "TD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NVR",
+    "CARR_NAME": "Nova Airlines",
+    "COUNTRY": "SE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KRN",
+    "CARR_NAME": "Karinou Airlines",
+    "COUNTRY": "CF",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CNO",
+    "CARR_NAME": "SAS Norway",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SWQ",
+    "CARR_NAME": "Swift Air L.L.C.",
+    "COUNTRY": "US",
+    "STATE": "AZ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ARC",
+    "CARR_NAME": "Air Routing International L.P.",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JCT",
+    "CARR_NAME": "Jet Charter, Inc",
+    "COUNTRY": "US",
+    "STATE": "NJ",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KZH",
+    "CARR_NAME": "Zhezair",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RMK",
+    "CARR_NAME": "Simrik Airlines",
+    "COUNTRY": "NP",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MSX",
+    "CARR_NAME": "EgyptAir Cargo",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JUB",
+    "CARR_NAME": "Jubba Airways",
+    "COUNTRY": "SO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RLY",
+    "CARR_NAME": "Air Loyaute",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RRV",
+    "CARR_NAME": "Mombassa Air Safari",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SBK",
+    "CARR_NAME": "Blue Sky Aviation",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WAJ",
+    "CARR_NAME": "AirAsia Japan",
+    "COUNTRY": "JP",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "BGT",
+    "CARR_NAME": "Bergen Air Transport",
+    "COUNTRY": "NO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RYW",
+    "CARR_NAME": "Royal Wings",
+    "COUNTRY": "JO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ERN",
+    "CARR_NAME": "Ernest Airline",
+    "COUNTRY": "IT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IAX",
+    "CARR_NAME": "Island Express Air Inc",
+    "COUNTRY": "CA",
+    "STATE": "BC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DCP",
+    "CARR_NAME": "Air Direct Connect Ltd",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ANC",
+    "CARR_NAME": "Avianca Argentina",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HTY",
+    "CARR_NAME": "Helity",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LSJ",
+    "CARR_NAME": "Air Liaison",
+    "COUNTRY": "CA",
+    "STATE": "QC",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UGS",
+    "CARR_NAME": "SKA Air and Logistics (U)",
+    "COUNTRY": "UG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WLM",
+    "CARR_NAME": "VLM Airlines D.D.",
+    "COUNTRY": "SI",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AZM",
+    "CARR_NAME": "Azman Air Services",
+    "COUNTRY": "NG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SLR",
+    "CARR_NAME": "Silverstone Air Services",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GWR",
+    "CARR_NAME": "Aura Airlines",
+    "COUNTRY": "ES",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SKV",
+    "CARR_NAME": "Sky Regional",
+    "COUNTRY": "CA",
+    "STATE": "ON",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "FLJ",
+    "CARR_NAME": "Surf Air Europe",
+    "COUNTRY": "GB",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MSB",
+    "CARR_NAME": "Air Stork Srl",
+    "COUNTRY": "MD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BOB",
+    "CARR_NAME": "Powdair",
+    "COUNTRY": "IE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TRH",
+    "CARR_NAME": "Turuhan Airlines",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ARN",
+    "CARR_NAME": "Aeronexus Corporate (pty) LTD",
+    "COUNTRY": "ZA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AUN",
+    "CARR_NAME": "FlyServus",
+    "COUNTRY": "AT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LKH",
+    "CARR_NAME": "Small Planet Airlines",
+    "COUNTRY": "KH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SSV",
+    "CARR_NAME": "ANDA AIR LIMITED",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DAI",
+    "CARR_NAME": "Dena Airways",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LDM",
+    "CARR_NAME": "LAUDAMOTION GMBH",
+    "COUNTRY": "AT",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "AMS",
+    "CARR_NAME": "ASTA - South America Air Taxi",
+    "COUNTRY": "BR",
+    "STATE": "MT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "QCL",
+    "CARR_NAME": "Air Class Lineas Aereas",
+    "COUNTRY": "UY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "IRV",
+    "CARR_NAME": "SAFFAT AIR",
+    "COUNTRY": "IR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AXY",
+    "CARR_NAME": "Air X Charter Ltd",
+    "COUNTRY": "MT",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JWX",
+    "CARR_NAME": "Jetways Airlines Limited",
+    "COUNTRY": "KE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "UKL",
+    "CARR_NAME": "Ukraine Air Alliance",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BGA",
+    "CARR_NAME": "Airbus Transport International",
+    "COUNTRY": "FR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MTL",
+    "CARR_NAME": "RAF-AVIA",
+    "COUNTRY": "LV",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VLM",
+    "CARR_NAME": "VLM Airlines",
+    "COUNTRY": "BE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PNX",
+    "CARR_NAME": "AIS Airlines",
+    "COUNTRY": "NL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SDG",
+    "CARR_NAME": "Star Air",
+    "COUNTRY": "IN",
+    "STATE": "KA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PTK",
+    "CARR_NAME": "Petropavlovsk-Kamchatsky Air",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VGV",
+    "CARR_NAME": "Vologda Air Enterprise",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "DYN",
+    "CARR_NAME": "Aerodynamics, Inc",
+    "COUNTRY": "US",
+    "STATE": "GA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NQN",
+    "CARR_NAME": "Grupo LASA S.R.L.",
+    "COUNTRY": "AR",
+    "STATE": "BA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CNT",
+    "CARR_NAME": "Connect Linhas Aereas",
+    "COUNTRY": "BR",
+    "STATE": "PR",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ONS",
+    "CARR_NAME": "ONE Airlines",
+    "COUNTRY": "CL",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PWY",
+    "CARR_NAME": "Yourways",
+    "COUNTRY": "DE",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SGU",
+    "CARR_NAME": "Sol del Paraguay",
+    "COUNTRY": "PY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TUB",
+    "CARR_NAME": "True Aviation Limited",
+    "COUNTRY": "BD",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WOL",
+    "CARR_NAME": "Wings Aviation Limited",
+    "COUNTRY": "GY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "VCY",
+    "CARR_NAME": "OCL Barbados",
+    "COUNTRY": "VC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TXZ",
+    "CARR_NAME": "THAI EXPRESS",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KGK",
+    "CARR_NAME": "SKY KG Airlines",
+    "COUNTRY": "KG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CIG",
+    "CARR_NAME": "Air company Sirius-Aero Ltd.",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SUI",
+    "CARR_NAME": "Schweizer Luftwaffe",
+    "COUNTRY": "CH",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "NAE",
+    "CARR_NAME": "National Airways",
+    "COUNTRY": "ET",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "GAA",
+    "CARR_NAME": "Global Africa Aviation",
+    "COUNTRY": "ZW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ACH",
+    "CARR_NAME": "Africa's Connection STP",
+    "COUNTRY": "ST",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "HAI",
+    "CARR_NAME": "Hai Au Aviation",
+    "COUNTRY": "VN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "OTF",
+    "CARR_NAME": "Orange 2 Fly",
+    "COUNTRY": "GR",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CAD",
+    "CARR_NAME": "PT Cardig Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CAD",
+    "CARR_NAME": "PT Cardig Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MHO",
+    "CARR_NAME": "Mokulele Airlines",
+    "COUNTRY": "US",
+    "STATE": "HI",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CST",
+    "CARR_NAME": "Shoreline Aviation",
+    "COUNTRY": "US",
+    "STATE": "CT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RLI",
+    "CARR_NAME": "Reliant Air Charter",
+    "COUNTRY": "US",
+    "STATE": "CT",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "TGY",
+    "CARR_NAME": "Trans Guyana Airways",
+    "COUNTRY": "GY",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "LNH",
+    "CARR_NAME": "Lanhsa Airlines",
+    "COUNTRY": "HN",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "ESS",
+    "CARR_NAME": "Thai Eastar Jet",
+    "COUNTRY": "TH",
+    "STATE": "",
+    "LOW_COST": true
+  },
+  {
+    "IATA_CD": "KMW",
+    "CARR_NAME": "Kostroma Air Enterprise",
+    "COUNTRY": "RU",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SKZ",
+    "CARR_NAME": "Skyway Enterprises Inc.",
+    "COUNTRY": "US",
+    "STATE": "FL",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SRR",
+    "CARR_NAME": "Star Air A/S",
+    "COUNTRY": "DK",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SEK",
+    "CARR_NAME": "Star East Airline S.R.L.",
+    "COUNTRY": "RO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "XAR",
+    "CARR_NAME": "Xpress Air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "JTU",
+    "CARR_NAME": "Zhetysu",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CON",
+    "CARR_NAME": "ConocoPhillips Aviation Alaska",
+    "COUNTRY": "US",
+    "STATE": "AK",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AJI",
+    "CARR_NAME": "Ameristar Air Cargo, Inc",
+    "COUNTRY": "US",
+    "STATE": "TX",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "BAY",
+    "CARR_NAME": "Bravo Airways",
+    "COUNTRY": "UA",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "KAM",
+    "CARR_NAME": "Sunkar Air LLP",
+    "COUNTRY": "KZ",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "RTU",
+    "CARR_NAME": "Aerotucan",
+    "COUNTRY": "MX",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MTN",
+    "CARR_NAME": "Mountain Air Cargo",
+    "COUNTRY": "US",
+    "STATE": "CO",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SQS",
+    "CARR_NAME": "Susi air",
+    "COUNTRY": "ID",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MKB",
+    "CARR_NAME": "Mack Air",
+    "COUNTRY": "BW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "WLD",
+    "CARR_NAME": "Wilderness Air",
+    "COUNTRY": "BW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SDO",
+    "CARR_NAME": "Air Santo Domingo",
+    "COUNTRY": "DO",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "MRR",
+    "CARR_NAME": "San Juan Airlines",
+    "COUNTRY": "US",
+    "STATE": "WA",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "SVD",
+    "CARR_NAME": "SVG Air",
+    "COUNTRY": "VC",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AML",
+    "CARR_NAME": "Air Cargo Malawi",
+    "COUNTRY": "MW",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AEU",
+    "CARR_NAME": "Atlantis Armenian Airlines",
+    "COUNTRY": "AM",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "AMN",
+    "CARR_NAME": "Air Montenegro",
+    "COUNTRY": "ME",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "CIL",
+    "CARR_NAME": "CIAF LEASING",
+    "COUNTRY": "EG",
+    "STATE": "",
+    "LOW_COST": false
+  },
+  {
+    "IATA_CD": "PGN",
+    "CARR_NAME": "Tailwind Air",
+    "COUNTRY": "US",
+    "STATE": "NY",
+    "LOW_COST": false
+  }
+]
