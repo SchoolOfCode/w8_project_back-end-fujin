@@ -1,19 +1,19 @@
-const { Router } = require('express');
+const { Router } = require("express");
 const router = new Router();
 
-var cors = require('cors')
-router.options('*', cors())
+var cors = require("cors");
+router.options("*", cors());
 
 const {
   getAllAirports,
   getAirportsByCity,
   getAirportById,
-} = require('../models/airports');
+  deleteAirport,
+  postAirport,
+  updateAirport
+} = require("../models/airports");
 
-
-
-// Get by city name
-router.get('/', cors(), async (req, res, next) => {
+router.get("/", cors(), async (req, res, next) => {
   const { query } = req;
   if (!query.city) {
     return next();
@@ -31,12 +31,12 @@ router.get('/', cors(), async (req, res, next) => {
   }
 });
 
-router.get('/', cors(), async (req, res) => {
+router.get("/", cors(), async (req, res) => {
   try {
     const data = await getAllAirports();
     res.json({
       success: true,
-      message: 'All airports',
+      message: "All airports",
       payload: data,
     });
   } catch (error) {
@@ -44,13 +44,42 @@ router.get('/', cors(), async (req, res) => {
   }
 });
 
-router.get('/:id', cors(), async (req, res) => {
+router.delete("/:id", async (req, res) => {
   const { id } = req.params;
   try {
-    const data = await getAirportById(id);
+    const data = await deleteAirport(id);
     res.json({
       success: true,
-      message: `Airport with id of ${id}`,
+      message: `Deleted airport with id of ${id}`,
+      payload: data,
+    });
+  } catch (error) {
+    res.json({ success: false, message: `${error.name}: ${error.message}` });
+  }
+});
+
+router.post("/", async (req, res) => {
+  const { body } = req;
+  try {
+    const data = await postAirport(body);
+    res.json({
+      success: true,
+      message: `Posted new airport`,
+      payload: data,
+    });
+  } catch (error) {
+    res.json({ success: false, message: `${error.name}: ${error.message}` });
+  }
+});
+
+router.put("/:id", async (req, res) => {
+  const { id } = req.params;
+  const { body } = req;
+  try {
+    const data = await updateAirport(id, body);
+    res.json({
+      success: true,
+      message: `Updated airport with id of ${id}`,
       payload: data,
     });
   } catch (error) {
