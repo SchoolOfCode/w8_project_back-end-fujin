@@ -4,17 +4,19 @@ const axios = require("axios");
 const dataFilter = require("../helpers/dataFilter");
 const fetchFromOAG = require("../helpers/fetchFromOAG");
 
+/*
 var cors = require('cors')
 router.options('*', cors())
+*/
 
-router.get("/", cors(), async (req, res) => {
+router.get("/", async (req, res) => {
   let rawData;
   try {
     rawData = await fetchFromOAG(req.query);
   } catch (error) {
     res.status(500).json({
       success: false,
-      message: "Internal server error",
+      message: `${error.name} ${error.message}`,
     });
     return;
   }
